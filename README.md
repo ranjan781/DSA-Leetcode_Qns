@@ -62,12 +62,9 @@ This repository reflects my ongoing Data Structures & Algorithms journey for sof
 
 ## 🧠 DSA Topics
 
-| Topic | Solved |
-|---|---:|
-| Array | 1 |
-| Math | 1 |
-| Two Pointers | 1 |
-
+| Topic | Solved | Easy | Medium | Hard | Progress |
+|---|---:|---:|---:|---:|---|
+| Uncategorised | 4 | 🟢 3 | 🟡 1 | 🔴 0 | `██████████` 100% |
 ---
 
 ## 🗂️ Repository Structure
@@ -93,10 +90,10 @@ DSA-Leetcode_Qns/
 
 | Date | Problem | Difficulty | Language |
 |---|---|---|---|
-| 2026-06-27 | 485. Max Consecutive Ones | Easy | C++ |
-| 2026-06-27 | 189. Rotate Array | Medium | C++ |
-| 2026-06-27 | 136. Single Number | Easy | C++ |
-| 2026-06-27 | 88. Merge Sorted Array | Easy | C++ |
+| 2026-06-27 | 485. Max Consecutive Ones | 🟢 Easy | C++ |
+| 2026-06-27 | 189. Rotate Array | 🟡 Medium | C++ |
+| 2026-06-27 | 136. Single Number | 🟢 Easy | C++ |
+| 2026-06-27 | 88. Merge Sorted Array | 🟢 Easy | C++ |
 ---
 
 ## 🏁 Milestones
@@ -138,11 +135,14 @@ I’m continuously improving my problem-solving skills by practicing algorithmic
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
-## Solved Problems
-|  |
-| ------- |
-| [0088-merge-sorted-array](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0088-merge-sorted-array) |
-| [0136-single-number](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0136-single-number) |
-| [0189-rotate-array](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0189-rotate-array) |
-| [0485-max-consecutive-ones](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0485-max-consecutive-ones) |
+
+## Uncategorised
+
+| # | Problem | Difficulty | Language |
+|---|---------|-----------|----------|
+| 88 | [88. Merge Sorted Array](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/main/0088-merge-sorted-array) | 🟢 Easy | C++ |
+| 136 | [136. Single Number](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/main/0136-single-number) | 🟢 Easy | C++ |
+| 189 | [189. Rotate Array](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/main/0189-rotate-array) | 🟡 Medium | C++ |
+| 485 | [485. Max Consecutive Ones](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/main/0485-max-consecutive-ones) | 🟢 Easy | C++ |
+
 <!---LeetCode Topics End-->
