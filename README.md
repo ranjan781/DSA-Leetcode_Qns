@@ -4,7 +4,7 @@ A curated collection of my LeetCode solutions, automatically synced with **LeetH
 
 This repository reflects my ongoing Data Structures & Algorithms journey for software engineering interview preparation.
 
-![LeetCode](https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png)
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="180" />
 
 ---
 
