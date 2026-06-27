@@ -65,11 +65,10 @@ This repository reflects my ongoing Data Structures & Algorithms journey for sof
 | Topic | Solved | Easy | Medium | Hard | Progress |
 |---|---:|---:|---:|---:|---|
 | Array | 4 | 🟢 3 | 🟡 1 | 🔴 0 | `██████████` 100% |
+| Math | 2 | 🟢 1 | 🟡 1 | 🔴 0 | `█████░░░░░` 50% |
 | Two Pointers | 2 | 🟢 1 | 🟡 1 | 🔴 0 | `█████░░░░░` 50% |
-| Uncategorised | 1 | 🟢 1 | 🟡 0 | 🔴 0 | `██░░░░░░░░` 25% |
 | Sorting | 1 | 🟢 1 | 🟡 0 | 🔴 0 | `██░░░░░░░░` 25% |
 | Bit Manipulation | 1 | 🟢 1 | 🟡 0 | 🔴 0 | `██░░░░░░░░` 25% |
-| Math | 1 | 🟢 0 | 🟡 1 | 🔴 0 | `██░░░░░░░░` 25% |
 ---
 
 ## 🗂️ Repository Structure
@@ -161,6 +160,7 @@ I’m continuously improving my problem-solving skills by practicing algorithmic
 
 | # | Problem | Difficulty | Language |
 |---|---------|-----------|----------|
+| 9 | [Palindrome Number](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/main/0009-palindrome-number) | ⚪ Unknown | C++ |
 | 189 | [Rotate Array](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/main/0189-rotate-array) | 🟡 Medium | C++ |
 
 ## 🔃 Sorting
@@ -175,11 +175,5 @@ I’m continuously improving my problem-solving skills by practicing algorithmic
 |---|---------|-----------|----------|
 | 88 | [Merge Sorted Array](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/main/0088-merge-sorted-array) | 🟢 Easy | C++ |
 | 189 | [Rotate Array](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/main/0189-rotate-array) | 🟡 Medium | C++ |
-
-## 📂 Uncategorised
-
-| # | Problem | Difficulty | Language |
-|---|---------|-----------|----------|
-| 9 | [Palindrome Number](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/main/0009-palindrome-number) | ⚪ Unknown | C++ |
 
 <!---LeetCode Topics End-->
