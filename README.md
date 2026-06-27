@@ -64,7 +64,11 @@ This repository reflects my ongoing Data Structures & Algorithms journey for sof
 
 | Topic | Solved | Easy | Medium | Hard | Progress |
 |---|---:|---:|---:|---:|---|
-| Uncategorised | 4 | 🟢 3 | 🟡 1 | 🔴 0 | `██████████` 100% |
+| Array | 4 | 🟢 3 | 🟡 1 | 🔴 0 | `██████████` 100% |
+| Two Pointers | 2 | 🟢 1 | 🟡 1 | 🔴 0 | `█████░░░░░` 50% |
+| Sorting | 1 | 🟢 1 | 🟡 0 | 🔴 0 | `██░░░░░░░░` 25% |
+| Bit Manipulation | 1 | 🟢 1 | 🟡 0 | 🔴 0 | `██░░░░░░░░` 25% |
+| Math | 1 | 🟢 0 | 🟡 1 | 🔴 0 | `██░░░░░░░░` 25% |
 ---
 
 ## 🗂️ Repository Structure
@@ -90,10 +94,10 @@ DSA-Leetcode_Qns/
 
 | Date | Problem | Difficulty | Language |
 |---|---|---|---|
-| 2026-06-27 | 485. Max Consecutive Ones | 🟢 Easy | C++ |
-| 2026-06-27 | 189. Rotate Array | 🟡 Medium | C++ |
-| 2026-06-27 | 136. Single Number | 🟢 Easy | C++ |
-| 2026-06-27 | 88. Merge Sorted Array | 🟢 Easy | C++ |
+| 2026-06-27 | [485. Max Consecutive Ones](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/main/0485-max-consecutive-ones) | 🟢 Easy | C++ |
+| 2026-06-27 | [189. Rotate Array](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/main/0189-rotate-array) | 🟡 Medium | C++ |
+| 2026-06-27 | [136. Single Number](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/main/0136-single-number) | 🟢 Easy | C++ |
+| 2026-06-27 | [88. Merge Sorted Array](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/main/0088-merge-sorted-array) | 🟢 Easy | C++ |
 ---
 
 ## 🏁 Milestones
@@ -136,13 +140,38 @@ I’m continuously improving my problem-solving skills by practicing algorithmic
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 
-## Uncategorised
+## 📦 Array
 
 | # | Problem | Difficulty | Language |
 |---|---------|-----------|----------|
-| 88 | [88. Merge Sorted Array](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/main/0088-merge-sorted-array) | 🟢 Easy | C++ |
-| 136 | [136. Single Number](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/main/0136-single-number) | 🟢 Easy | C++ |
-| 189 | [189. Rotate Array](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/main/0189-rotate-array) | 🟡 Medium | C++ |
-| 485 | [485. Max Consecutive Ones](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/main/0485-max-consecutive-ones) | 🟢 Easy | C++ |
+| 88 | [Merge Sorted Array](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/main/0088-merge-sorted-array) | 🟢 Easy | C++ |
+| 136 | [Single Number](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/main/0136-single-number) | 🟢 Easy | C++ |
+| 189 | [Rotate Array](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/main/0189-rotate-array) | 🟡 Medium | C++ |
+| 485 | [Max Consecutive Ones](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/main/0485-max-consecutive-ones) | 🟢 Easy | C++ |
+
+## ⚙️ Bit Manipulation
+
+| # | Problem | Difficulty | Language |
+|---|---------|-----------|----------|
+| 136 | [Single Number](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/main/0136-single-number) | 🟢 Easy | C++ |
+
+## ➗ Math
+
+| # | Problem | Difficulty | Language |
+|---|---------|-----------|----------|
+| 189 | [Rotate Array](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/main/0189-rotate-array) | 🟡 Medium | C++ |
+
+## 🔃 Sorting
+
+| # | Problem | Difficulty | Language |
+|---|---------|-----------|----------|
+| 88 | [Merge Sorted Array](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/main/0088-merge-sorted-array) | 🟢 Easy | C++ |
+
+## 👆 Two Pointers
+
+| # | Problem | Difficulty | Language |
+|---|---------|-----------|----------|
+| 88 | [Merge Sorted Array](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/main/0088-merge-sorted-array) | 🟢 Easy | C++ |
+| 189 | [Rotate Array](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/main/0189-rotate-array) | 🟡 Medium | C++ |
 
 <!---LeetCode Topics End-->
