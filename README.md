@@ -1,10 +1,9 @@
-# 🚀 LeetCode Solutions Portfolio
+# 🚀 LeetCode Solutions Portfolio <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="180" />
 
 A curated collection of my LeetCode solutions, automatically synced with **LeetHub**.
 
 This repository reflects my ongoing Data Structures & Algorithms journey for software engineering interview preparation.
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="180" />
 
 ---
 
