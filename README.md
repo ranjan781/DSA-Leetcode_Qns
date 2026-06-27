@@ -148,7 +148,6 @@ I'm continuously improving my problem-solving skills by practicing algorithmic t
 
 | # | Problem | Difficulty | Language |
 |---|---------|-----------|----------|
-| 9 | [Palindrome Number](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/main/0009-palindrome-number) | ⚪ Unknown | C++ |
 | 189 | [Rotate Array](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/main/0189-rotate-array) | 🟡 Medium | C++ |
 
 ## 🔃 Sorting
