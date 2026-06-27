@@ -27,7 +27,7 @@ This repository reflects my ongoing Data Structures & Algorithms journey for sof
 | Easy solved | 2 |
 | Medium solved | 1 |
 | Hard solved | 0 |
-| Number of folders | 3 |
+| Number of folders | 4 |
 | Number of source files | 3 |
 | Number of programming languages | 1 |
 ---
@@ -96,6 +96,7 @@ DSA-Leetcode_Qns/
 | 2026-06-27 | 485. Max Consecutive Ones | Easy | C++ |
 | 2026-06-27 | 189. Rotate Array | Medium | C++ |
 | 2026-06-27 | 136. Single Number | Easy | C++ |
+| 2026-06-27 | 88. Merge Sorted Array | Unknown | Unknown |
 ---
 
 ## 🏁 Milestones
@@ -140,6 +141,7 @@ I’m continuously improving my problem-solving skills by practicing algorithmic
 ## Solved Problems
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0189-rotate-array) |
 | [0485-max-consecutive-ones](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0485-max-consecutive-ones) |
