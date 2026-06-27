@@ -143,4 +143,16 @@ I’m continuously improving my problem-solving skills by practicing algorithmic
 | [0136-single-number](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0189-rotate-array) |
 | [0485-max-consecutive-ones](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0485-max-consecutive-ones) |
+## Array
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0088-merge-sorted-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0088-merge-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
