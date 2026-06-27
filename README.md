@@ -8,44 +8,66 @@ This repository reflects my ongoing Data Structures & Algorithms journey for sof
 
 ## 🏷️ Badges
 
-<!--BADGES_START-->
-<!--BADGES_END-->
-
+![Total Problems](https://img.shields.io/badge/Total%20Problems-4-blue)
+![Easy](https://img.shields.io/badge/Easy-3-brightgreen)
+![Medium](https://img.shields.io/badge/Medium-1-orange)
+![Hard](https://img.shields.io/badge/Hard-0-red)
+![GitHub Stars](https://img.shields.io/github/stars/ranjan781/DSA-Leetcode_Qns)
+![Last Commit](https://img.shields.io/github/last-commit/ranjan781/DSA-Leetcode_Qns)
+![Repository Size](https://img.shields.io/github/repo-size/ranjan781/DSA-Leetcode_Qns)
+![Language Count](https://img.shields.io/badge/Languages-1-informational)
 ---
 
 ## 📊 Repository Statistics
 
-<!--STATS_START-->
-<!--STATS_END-->
-
+| Metric | Value |
+|---|---:|
+| Total solved questions | 4 |
+| Easy solved | 3 |
+| Medium solved | 1 |
+| Hard solved | 0 |
+| Number of folders | 5 |
+| Number of source files | 5 |
+| Number of programming languages | 1 |
 ---
 
 ## 📈 Difficulty Distribution
 
-<!--DIFF_START-->
-<!--DIFF_END-->
-
+| Difficulty | Count | Percentage |
+|---|---:|---:|
+| Easy | 3 | 75% |
+| Medium | 1 | 25% |
+| Hard | 0 | 0% |
 ---
 
 ## 📉 Progress Bar
 
-<!--PROGRESS_START-->
-<!--PROGRESS_END-->
+**Easy**  
+███████████████░░░░░ 75%
 
+**Medium**  
+█████░░░░░░░░░░░░░░░ 25%
+
+**Hard**  
+░░░░░░░░░░░░░░░░░░░░ 0%
 ---
 
 ## 💻 Languages Used
 
-<!--LANGUAGES_START-->
-<!--LANGUAGES_END-->
-
+| Language | Solutions |
+|---|---:|
+| C++ | 5 |
 ---
 
 ## 🧠 DSA Topics
 
-<!--DSA_TOPICS_START-->
-<!--DSA_TOPICS_END-->
-
+| Topic | Solved | Easy | Medium | Hard | Progress |
+|---|---:|---:|---:|---:|---|
+| Array | 4 | 🟢 3 | 🟡 1 | 🔴 0 | `██████████` 100% |
+| Math | 2 | 🟢 1 | 🟡 1 | 🔴 0 | `█████░░░░░` 50% |
+| Two Pointers | 2 | 🟢 1 | 🟡 1 | 🔴 0 | `█████░░░░░` 50% |
+| Sorting | 1 | 🟢 1 | 🟡 0 | 🔴 0 | `██░░░░░░░░` 25% |
+| Bit Manipulation | 1 | 🟢 1 | 🟡 0 | 🔴 0 | `██░░░░░░░░` 25% |
 ---
 
 ## 🗂️ Repository Structure
@@ -58,9 +80,13 @@ This repository reflects my ongoing Data Structures & Algorithms journey for sof
 
 ## 🆕 Recently Added Problems
 
-<!--RECENT_START-->
-<!--RECENT_END-->
-
+| Date | Problem | Difficulty | Language |
+|---|---|---|---|
+| 2026-06-27 | [485. Max Consecutive Ones](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/main/0485-max-consecutive-ones) | 🟢 Easy | C++ |
+| 2026-06-27 | [189. Rotate Array](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/main/0189-rotate-array) | 🟡 Medium | C++ |
+| 2026-06-27 | [136. Single Number](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/main/0136-single-number) | 🟢 Easy | C++ |
+| 2026-06-27 | [88. Merge Sorted Array](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/main/0088-merge-sorted-array) | 🟢 Easy | C++ |
+| 2026-06-27 | [9. Palindrome Number](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/main/0009-palindrome-number) | ⚪ Unknown | C++ |
 ---
 
 ## 🏁 Milestones
@@ -102,4 +128,40 @@ I'm continuously improving my problem-solving skills by practicing algorithmic t
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
+
+## 📦 Array
+
+| # | Problem | Difficulty | Language |
+|---|---------|-----------|----------|
+| 88 | [Merge Sorted Array](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/main/0088-merge-sorted-array) | 🟢 Easy | C++ |
+| 136 | [Single Number](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/main/0136-single-number) | 🟢 Easy | C++ |
+| 189 | [Rotate Array](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/main/0189-rotate-array) | 🟡 Medium | C++ |
+| 485 | [Max Consecutive Ones](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/main/0485-max-consecutive-ones) | 🟢 Easy | C++ |
+
+## ⚙️ Bit Manipulation
+
+| # | Problem | Difficulty | Language |
+|---|---------|-----------|----------|
+| 136 | [Single Number](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/main/0136-single-number) | 🟢 Easy | C++ |
+
+## ➗ Math
+
+| # | Problem | Difficulty | Language |
+|---|---------|-----------|----------|
+| 9 | [Palindrome Number](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/main/0009-palindrome-number) | ⚪ Unknown | C++ |
+| 189 | [Rotate Array](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/main/0189-rotate-array) | 🟡 Medium | C++ |
+
+## 🔃 Sorting
+
+| # | Problem | Difficulty | Language |
+|---|---------|-----------|----------|
+| 88 | [Merge Sorted Array](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/main/0088-merge-sorted-array) | 🟢 Easy | C++ |
+
+## 👆 Two Pointers
+
+| # | Problem | Difficulty | Language |
+|---|---------|-----------|----------|
+| 88 | [Merge Sorted Array](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/main/0088-merge-sorted-array) | 🟢 Easy | C++ |
+| 189 | [Rotate Array](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/main/0189-rotate-array) | 🟡 Medium | C++ |
+
 <!---LeetCode Topics End-->
