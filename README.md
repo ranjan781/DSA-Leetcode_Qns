@@ -99,7 +99,7 @@ DSA-Leetcode_Qns/
 
 | Date | Problem | Difficulty | Language |
 |---|---|---|---|
-| 2026-06-26 | 189. Rotate Array | Medium | C++ |
+| 2026-06-27 | 189. Rotate Array | Medium | C++ |
 
 ---
 
