@@ -1,0 +1,14 @@
+{
+  "0088-merge-sorted-array": {
+    "topics": ["Array", "Two Pointers", "Sorting"]
+  },
+  "0136-single-number": {
+    "topics": ["Array", "Bit Manipulation"]
+  },
+  "0189-rotate-array": {
+    "topics": ["Array", "Math", "Two Pointers"]
+  },
+  "0485-max-consecutive-ones": {
+    "topics": ["Array"]
+  }
+}
