@@ -10,5 +10,8 @@
   },
   "0485-max-consecutive-ones": {
     "topics": ["Array"]
+  },
+  "0009-palindrome-number":{
+    "topics": ["Math"]
   }
 }
