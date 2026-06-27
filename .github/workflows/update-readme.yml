@@ -3,21 +3,19 @@ name: Auto Update README
 on:
   push:
     branches: [main]
-  workflow_dispatch:        # manual trigger bhi allow karta hai
+  workflow_dispatch:
   schedule:
-    - cron: '0 */6 * * *'  # har 6 ghante mein automatically chalega
+    - cron: '0 */3 * * *'
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.PAT_TOKEN }}
           fetch-depth: 0
 
       - name: Set up Python
@@ -30,7 +28,7 @@ jobs:
 
       - name: Commit and push if changed
         run: |
-          git config user.name  "github-actions[bot]"
+          git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add README.md
           git diff --cached --quiet || git commit -m "📊 Auto-update README stats"
