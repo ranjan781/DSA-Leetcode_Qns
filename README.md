@@ -9,60 +9,55 @@ This repository reflects my ongoing Data Structures & Algorithms journey for sof
 
 ## 🏷️ Badges
 
-![Total Problems](https://img.shields.io/badge/Total%20Problems-1-blue)
-![Easy](https://img.shields.io/badge/Easy-0-brightgreen)
+![Total Problems](https://img.shields.io/badge/Total%20Problems-2-blue)
+![Easy](https://img.shields.io/badge/Easy-1-brightgreen)
 ![Medium](https://img.shields.io/badge/Medium-1-orange)
 ![Hard](https://img.shields.io/badge/Hard-0-red)
 ![GitHub Stars](https://img.shields.io/github/stars/ranjan781/DSA-Leetcode_Qns)
 ![Last Commit](https://img.shields.io/github/last-commit/ranjan781/DSA-Leetcode_Qns)
 ![Repository Size](https://img.shields.io/github/repo-size/ranjan781/DSA-Leetcode_Qns)
 ![Language Count](https://img.shields.io/badge/Languages-1-informational)
-
 ---
 
 ## 📊 Repository Statistics
 
 | Metric | Value |
 |---|---:|
-| Total solved questions | 1 |
-| Easy solved | 0 |
+| Total solved questions | 2 |
+| Easy solved | 1 |
 | Medium solved | 1 |
 | Hard solved | 0 |
-| Number of folders | 1 |
-| Number of source files | 1 |
+| Number of folders | 2 |
+| Number of source files | 2 |
 | Number of programming languages | 1 |
-
 ---
 
 ## 📈 Difficulty Distribution
 
 | Difficulty | Count | Percentage |
 |---|---:|---:|
-| Easy | 0 | 0% |
-| Medium | 1 | 100% |
+| Easy | 1 | 50% |
+| Medium | 1 | 50% |
 | Hard | 0 | 0% |
-
 ---
 
 ## 📉 Progress Bar
 
 **Easy**  
-░░░░░░░░░░░░░░░░░░░░ 0%
+██████████░░░░░░░░░░ 50%
 
 **Medium**  
-████████████████████ 100%
+██████████░░░░░░░░░░ 50%
 
 **Hard**  
 ░░░░░░░░░░░░░░░░░░░░ 0%
-
 ---
 
 ## 💻 Languages Used
 
 | Language | Solutions |
 |---|---:|
-| C++ | 1 |
-
+| C++ | 2 |
 ---
 
 ## 🧠 DSA Topics
@@ -98,8 +93,8 @@ DSA-Leetcode_Qns/
 
 | Date | Problem | Difficulty | Language |
 |---|---|---|---|
-| 2026-06-26 | 189. Rotate Array | Medium | C++ |
-
+| 2026-06-27 | 485. Max Consecutive Ones | Easy | C++ |
+| 2026-06-27 | 189. Rotate Array | Medium | C++ |
 ---
 
 ## 🏁 Milestones
@@ -141,8 +136,9 @@ I’m continuously improving my problem-solving skills by practicing algorithmic
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
-## Array
+## Solved Problems
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0189-rotate-array) |
 | [0485-max-consecutive-ones](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0485-max-consecutive-ones) |
 <!---LeetCode Topics End-->
