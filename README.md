@@ -1,4 +1,4 @@
-# 🚀 LeetCode Solutions Portfolio <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="180" />
+# 🚀 LeetCode Solutions Portfolio
 
 A curated collection of my LeetCode solutions, automatically synced with **LeetHub**.
 
