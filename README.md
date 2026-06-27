@@ -9,8 +9,8 @@ This repository reflects my ongoing Data Structures & Algorithms journey for sof
 
 ## 🏷️ Badges
 
-![Total Problems](https://img.shields.io/badge/Total%20Problems-2-blue)
-![Easy](https://img.shields.io/badge/Easy-1-brightgreen)
+![Total Problems](https://img.shields.io/badge/Total%20Problems-3-blue)
+![Easy](https://img.shields.io/badge/Easy-2-brightgreen)
 ![Medium](https://img.shields.io/badge/Medium-1-orange)
 ![Hard](https://img.shields.io/badge/Hard-0-red)
 ![GitHub Stars](https://img.shields.io/github/stars/ranjan781/DSA-Leetcode_Qns)
@@ -23,12 +23,12 @@ This repository reflects my ongoing Data Structures & Algorithms journey for sof
 
 | Metric | Value |
 |---|---:|
-| Total solved questions | 2 |
-| Easy solved | 1 |
+| Total solved questions | 3 |
+| Easy solved | 2 |
 | Medium solved | 1 |
 | Hard solved | 0 |
-| Number of folders | 2 |
-| Number of source files | 2 |
+| Number of folders | 3 |
+| Number of source files | 3 |
 | Number of programming languages | 1 |
 ---
 
@@ -36,18 +36,18 @@ This repository reflects my ongoing Data Structures & Algorithms journey for sof
 
 | Difficulty | Count | Percentage |
 |---|---:|---:|
-| Easy | 1 | 50% |
-| Medium | 1 | 50% |
+| Easy | 2 | 67% |
+| Medium | 1 | 33% |
 | Hard | 0 | 0% |
 ---
 
 ## 📉 Progress Bar
 
 **Easy**  
-██████████░░░░░░░░░░ 50%
+█████████████░░░░░░░ 67%
 
 **Medium**  
-██████████░░░░░░░░░░ 50%
+███████░░░░░░░░░░░░░ 33%
 
 **Hard**  
 ░░░░░░░░░░░░░░░░░░░░ 0%
@@ -57,7 +57,7 @@ This repository reflects my ongoing Data Structures & Algorithms journey for sof
 
 | Language | Solutions |
 |---|---:|
-| C++ | 2 |
+| C++ | 3 |
 ---
 
 ## 🧠 DSA Topics
@@ -95,6 +95,7 @@ DSA-Leetcode_Qns/
 |---|---|---|---|
 | 2026-06-27 | 485. Max Consecutive Ones | Easy | C++ |
 | 2026-06-27 | 189. Rotate Array | Medium | C++ |
+| 2026-06-27 | 136. Single Number | Easy | C++ |
 ---
 
 ## 🏁 Milestones
@@ -139,14 +140,7 @@ I’m continuously improving my problem-solving skills by practicing algorithmic
 ## Solved Problems
 |  |
 | ------- |
+| [0136-single-number](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0189-rotate-array) |
 | [0485-max-consecutive-ones](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0485-max-consecutive-ones) |
-## Array
-|  |
-| ------- |
-| [0136-single-number](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0136-single-number) |
-## Bit Manipulation
-|  |
-| ------- |
-| [0136-single-number](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
