@@ -27,8 +27,8 @@ This repository reflects my ongoing Data Structures & Algorithms journey for sof
 | Easy solved | 3 |
 | Medium solved | 1 |
 | Hard solved | 0 |
-| Number of folders | 5 |
-| Number of source files | 5 |
+| Number of folders | 4 |
+| Number of source files | 4 |
 | Number of programming languages | 1 |
 ---
 
@@ -57,7 +57,7 @@ This repository reflects my ongoing Data Structures & Algorithms journey for sof
 
 | Language | Solutions |
 |---|---:|
-| C++ | 5 |
+| C++ | 4 |
 ---
 
 ## 🧠 DSA Topics
@@ -65,10 +65,10 @@ This repository reflects my ongoing Data Structures & Algorithms journey for sof
 | Topic | Solved | Easy | Medium | Hard | Progress |
 |---|---:|---:|---:|---:|---|
 | Array | 4 | 🟢 3 | 🟡 1 | 🔴 0 | `██████████` 100% |
-| Math | 2 | 🟢 1 | 🟡 1 | 🔴 0 | `█████░░░░░` 50% |
 | Two Pointers | 2 | 🟢 1 | 🟡 1 | 🔴 0 | `█████░░░░░` 50% |
 | Sorting | 1 | 🟢 1 | 🟡 0 | 🔴 0 | `██░░░░░░░░` 25% |
 | Bit Manipulation | 1 | 🟢 1 | 🟡 0 | 🔴 0 | `██░░░░░░░░` 25% |
+| Math | 1 | 🟢 0 | 🟡 1 | 🔴 0 | `██░░░░░░░░` 25% |
 ---
 
 ## 🗂️ Repository Structure
@@ -98,7 +98,6 @@ DSA-Leetcode_Qns/
 | 2026-06-27 | [189. Rotate Array](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/main/0189-rotate-array) | 🟡 Medium | C++ |
 | 2026-06-27 | [136. Single Number](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/main/0136-single-number) | 🟢 Easy | C++ |
 | 2026-06-27 | [88. Merge Sorted Array](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/main/0088-merge-sorted-array) | 🟢 Easy | C++ |
-| 2026-06-27 | [9. Palindrome Number](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/main/0009-palindrome-number) | ⚪ Unknown | C++ |
 ---
 
 ## 🏁 Milestones
@@ -160,7 +159,6 @@ I’m continuously improving my problem-solving skills by practicing algorithmic
 
 | # | Problem | Difficulty | Language |
 |---|---------|-----------|----------|
-| 9 | [Palindrome Number](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/main/0009-palindrome-number) | ⚪ Unknown | C++ |
 | 189 | [Rotate Array](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/main/0189-rotate-array) | 🟡 Medium | C++ |
 
 ## 🔃 Sorting
