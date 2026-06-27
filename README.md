@@ -139,3 +139,11 @@ I’m continuously improving my problem-solving skills by practicing algorithmic
 ---
 
 > Every problem solved is another step toward becoming a better Software Engineer.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0485-max-consecutive-ones](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0485-max-consecutive-ones) |
+<!---LeetCode Topics End-->
