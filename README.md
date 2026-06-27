@@ -29,7 +29,7 @@ This repository reflects my ongoing Data Structures & Algorithms journey for sof
 | Hard solved | 0 |
 | Number of folders | 4 |
 | Number of source files | 4 |
-| Number of programming languages | 1 |
+| Number of programming languages | 2 |
 ---
 
 ## 📈 Difficulty Distribution
