@@ -116,7 +116,7 @@ def build_dsa_topics(problems: list[Problem]) -> str:
 # ── LeetCode Topics section (the improved grouped one) ────────────────────────
 
 def build_leetcode_topics(problems: list[Problem]) -> str:
-    BASE = "BASE_URL = "https://github.com/ranjan781/DSA-Leetcode_Qns/tree/main""
+    BASE = "BASE_URL = "https://github.com/ranjan781/DSA-Leetcode_Qns/tree/main"
 
     # Build topic → problems mapping
     topic_map: dict[str, list[Problem]] = defaultdict(list)
