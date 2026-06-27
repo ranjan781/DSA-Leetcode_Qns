@@ -141,4 +141,12 @@ I’m continuously improving my problem-solving skills by practicing algorithmic
 | ------- |
 | [0189-rotate-array](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0189-rotate-array) |
 | [0485-max-consecutive-ones](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0485-max-consecutive-ones) |
+## Array
+|  |
+| ------- |
+| [0136-single-number](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0136-single-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
