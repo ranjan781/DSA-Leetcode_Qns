@@ -164,4 +164,10 @@ I'm continuously improving my problem-solving skills by practicing algorithmic t
 | 88 | [Merge Sorted Array](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/main/0088-merge-sorted-array) | 🟢 Easy | C++ |
 | 189 | [Rotate Array](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/main/0189-rotate-array) | 🟡 Medium | C++ |
 
+## 📂 Uncategorised
+
+| # | Problem | Difficulty | Language |
+|---|---------|-----------|----------|
+| 125 | [Valid Palindrome](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/main/0125-valid-palindrome) | ⚪ Unknown | C++ |
+
 <!---LeetCode Topics End-->
