@@ -1,25 +1,45 @@
-
 import re
 
+SECTIONS = {
+    "stats": (
+        "<!-- AUTO_STATS_START -->",
+        "<!-- AUTO_STATS_END -->",
+    ),
+    "progress": (
+        "<!-- AUTO_PROGRESS_START -->",
+        "<!-- AUTO_PROGRESS_END -->",
+    ),
+    "recent": (
+        "<!-- AUTO_RECENT_START -->",
+        "<!-- AUTO_RECENT_END -->",
+    ),
+    "languages": (
+        "<!-- AUTO_LANG_START -->",
+        "<!-- AUTO_LANG_END -->",
+    ),
+    "date": (
+        "<!-- AUTO_DATE_START -->",
+        "<!-- AUTO_DATE_END -->",
+    ),
+}
 
-def replace_section(content: str, start: str, end: str, new_content: str):
-    """
-    Replace everything between two markers.
-    """
 
-    pattern = rf"{re.escape(start)}.*?{re.escape(end)}"
+def replace_section(readme, start, end, content):
 
-    replacement = (
-        start
-        + "\n"
-        + new_content.strip()
-        + "\n"
-        + end
+    pattern = re.compile(
+        re.escape(start)
+        + r".*?"
+        + re.escape(end),
+        re.DOTALL,
     )
 
-    return re.sub(
-        pattern,
-        replacement,
-        content,
-        flags=re.DOTALL,
-    )
+    new = f"{start}\n{content}\n{end}"
+
+    return pattern.sub(new, readme)
+
+
+def update_section(readme, key, content):
+
+    start, end = SECTIONS[key]
+
+    return replace_section(readme, start, end, content)
