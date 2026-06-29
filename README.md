@@ -24,8 +24,8 @@
 
 | Metric | Value |
 |---|---:|
-| Total Solved | **11** |
-| 🟢 Easy | **8** |
+| Total Solved | **12** |
+| 🟢 Easy | **9** |
 | 🟡 Medium | **3** |
 | 🔴 Hard | **0** |
 
@@ -39,7 +39,7 @@
 
 ### 🟢 Easy
 
-██████████████░░░░░░ 8
+███████████████░░░░░ 9
 
 ### 🟡 Medium
 
@@ -79,11 +79,11 @@ Loading...
 | 1021 | [1078. Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses) | 🟢 Easy | C++ |
 | 704 | [792. Binary Search](https://leetcode.com/problems/binary-search) | 🟢 Easy | C++ |
 | 485 | [485. Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones) | 🟢 Easy | C++ |
+| 242 | [242. Valid Anagram](https://leetcode.com/problems/valid-anagram) | 🟢 Easy | C++ |
 | 189 | [189. Rotate Array](https://leetcode.com/problems/rotate-array) | 🟡 Medium | C++ |
 | 151 | [151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string) | 🟡 Medium | C++ |
 | 136 | [136. Single Number](https://leetcode.com/problems/single-number) | 🟢 Easy | C++ |
 | 125 | [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome) | 🟢 Easy | C++ |
-| 88 | [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array) | 🟢 Easy | C++ |
 <!-- AUTO_RECENT_END -->
 
 ---
@@ -101,7 +101,7 @@ Loading...
 <!-- AUTO_LANG_START -->
 | Language | Solutions |
 |---|---:|
-| C++ | 11 |
+| C++ | 12 |
 <!-- AUTO_LANG_END -->
 
 ---
@@ -109,7 +109,7 @@ Loading...
 # 📅 Last Updated
 
 <!-- AUTO_DATE_START -->
-29 June 2026 10:54 UTC
+29 June 2026 16:29 UTC
 <!-- AUTO_DATE_END -->
 
 ---
