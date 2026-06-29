@@ -1,4 +1,3 @@
-
 from pathlib import Path
 
 from parser import scan_repository
@@ -9,61 +8,58 @@ from generator import (
     generate_languages,
     generate_date,
 )
-from utils import replace_section
 
+from utils import update_section
 
 README = Path("README.md")
 
 
 def main():
 
-    problems = scan_repository()
-
     if not README.exists():
-        print("README.md not found.")
+        print("README.md not found")
         return
 
-    text = README.read_text(encoding="utf-8")
+    problems = scan_repository()
 
-    text = replace_section(
-        text,
-        "<!-- AUTO_STATS_START -->",
-        "<!-- AUTO_STATS_END -->",
+    readme = README.read_text(encoding="utf-8")
+
+    readme = update_section(
+        readme,
+        "stats",
         generate_stats(problems),
     )
 
-    text = replace_section(
-        text,
-        "<!-- AUTO_PROGRESS_START -->",
-        "<!-- AUTO_PROGRESS_END -->",
+    readme = update_section(
+        readme,
+        "progress",
         generate_progress(problems),
     )
 
-    text = replace_section(
-        text,
-        "<!-- AUTO_RECENT_START -->",
-        "<!-- AUTO_RECENT_END -->",
+    readme = update_section(
+        readme,
+        "recent",
         generate_recent(problems),
     )
 
-    text = replace_section(
-        text,
-        "<!-- AUTO_LANG_START -->",
-        "<!-- AUTO_LANG_END -->",
+    readme = update_section(
+        readme,
+        "languages",
         generate_languages(problems),
     )
 
-    text = replace_section(
-        text,
-        "<!-- AUTO_DATE_START -->",
-        "<!-- AUTO_DATE_END -->",
+    readme = update_section(
+        readme,
+        "date",
         generate_date(),
     )
 
-    README.write_text(text, encoding="utf-8")
+    README.write_text(readme, encoding="utf-8")
 
-    print(f"README Updated Successfully!")
-    print(f"Problems Found : {len(problems)}")
+    print("=" * 50)
+    print("README Updated Successfully")
+    print("=" * 50)
+    print(f"Problems : {len(problems)}")
 
 
 if __name__ == "__main__":
