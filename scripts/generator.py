@@ -1,10 +1,13 @@
-
+from collections import Counter
 from datetime import datetime
 
 
-def progress_bar(value, total=100):
+def bar(value, total):
 
-    filled = int(value / total * 20)
+    if total == 0:
+        return "░" * 20
+
+    filled = int((value / total) * 20)
 
     return "█" * filled + "░" * (20 - filled)
 
@@ -13,13 +16,15 @@ def generate_stats(problems):
 
     total = len(problems)
 
-    easy = sum(p["difficulty"] == "Easy" for p in problems)
-    medium = sum(p["difficulty"] == "Medium" for p in problems)
-    hard = sum(p["difficulty"] == "Hard" for p in problems)
+    easy = sum(x["difficulty"] == "Easy" for x in problems)
+
+    medium = sum(x["difficulty"] == "Medium" for x in problems)
+
+    hard = sum(x["difficulty"] == "Hard" for x in problems)
 
     return f"""
-| Metric | Count |
-|------|------:|
+| Metric | Value |
+|---|---:|
 | Total Solved | **{total}** |
 | 🟢 Easy | **{easy}** |
 | 🟡 Medium | **{medium}** |
@@ -29,60 +34,82 @@ def generate_stats(problems):
 
 def generate_progress(problems):
 
-    total = max(len(problems), 1)
+    total = len(problems)
 
-    easy = sum(p["difficulty"] == "Easy" for p in problems)
-    medium = sum(p["difficulty"] == "Medium" for p in problems)
-    hard = sum(p["difficulty"] == "Hard" for p in problems)
+    easy = sum(x["difficulty"] == "Easy" for x in problems)
+
+    medium = sum(x["difficulty"] == "Medium" for x in problems)
+
+    hard = sum(x["difficulty"] == "Hard" for x in problems)
 
     return f"""
-Easy
+### 🟢 Easy
 
-{progress_bar(easy,total)} {easy}
+{bar(easy,total)} {easy}
 
-Medium
+### 🟡 Medium
 
-{progress_bar(medium,total)} {medium}
+{bar(medium,total)} {medium}
 
-Hard
+### 🔴 Hard
 
-{progress_bar(hard,total)} {hard}
+{bar(hard,total)} {hard}
 """
 
 
 def generate_recent(problems):
 
-    rows = []
+    latest = sorted(
+        problems,
+        key=lambda x: x["modified"],
+        reverse=True
+    )[:10]
 
-    for p in problems[:10]:
+    lines = [
+        "| # | Problem | Difficulty | Language |",
+        "|---|---|---|---|"
+    ]
 
-        rows.append(
-            f"| {p['title']} | {p['difficulty']} | {p['language']} |"
+    emoji = {
+        "Easy":"🟢",
+        "Medium":"🟡",
+        "Hard":"🔴"
+    }
+
+    for p in latest:
+
+        lines.append(
+
+            f"| {p['id']} | [{p['title']}]({p['url']}) | {emoji.get(p['difficulty'],'⚪')} {p['difficulty']} | {p['language']} |"
+
         )
 
-    return (
-        "| Problem | Difficulty | Language |\n"
-        "|---|---|---|\n"
-        + "\n".join(rows)
-    )
+    return "\n".join(lines)
 
 
 def generate_languages(problems):
 
-    counter = {}
+    counter = Counter()
 
     for p in problems:
-        counter[p["language"]] = counter.get(p["language"],0)+1
+        counter[p["language"]] += 1
 
-    rows=[]
+    text = [
+        "| Language | Solutions |",
+        "|---|---:|"
+    ]
 
-    for lang,count in sorted(counter.items(),key=lambda x:x[1],reverse=True):
+    for lang, cnt in counter.items():
 
-        rows.append(f"| {lang} | {count} |")
+        text.append(
 
-    return "| Language | Solutions |\n|---|---:|\n" + "\n".join(rows)
+            f"| {lang} | {cnt} |"
+
+        )
+
+    return "\n".join(text)
 
 
 def generate_date():
 
-    return datetime.now().strftime("%d %B %Y %H:%M UTC")
+    return datetime.utcnow().strftime("%d %B %Y %H:%M UTC")
