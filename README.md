@@ -21,7 +21,12 @@
 # 📊 Dashboard
 
 <!-- AUTO_STATS_START -->
-Loading...
+| Metric | Count |
+|------|------:|
+| Total Solved | **10** |
+| 🟢 Easy | **7** |
+| 🟡 Medium | **3** |
+| 🔴 Hard | **0** |
 <!-- AUTO_STATS_END -->
 
 ---
@@ -29,7 +34,17 @@ Loading...
 # 📈 Progress
 
 <!-- AUTO_PROGRESS_START -->
-Loading...
+Easy
+
+██████████████░░░░░░ 7
+
+Medium
+
+██████░░░░░░░░░░░░░░ 3
+
+Hard
+
+░░░░░░░░░░░░░░░░░░░░ 0
 <!-- AUTO_PROGRESS_END -->
 
 ---
@@ -53,7 +68,18 @@ Loading...
 # 🔥 Recently Solved Problems
 
 <!-- AUTO_RECENT_START -->
-Loading...
+| Problem | Difficulty | Language |
+|---|---|---|
+| 2021. Remove All Occurrences of a Substring | Medium | C++ |
+| 2032. Largest Odd Number in String | Easy | C++ |
+| 1078. Remove Outermost Parentheses | Easy | C++ |
+| 792. Binary Search | Easy | C++ |
+| 485. Max Consecutive Ones | Easy | C++ |
+| 189. Rotate Array | Medium | C++ |
+| 151. Reverse Words in a String | Medium | C++ |
+| 136. Single Number | Easy | C++ |
+| 125. Valid Palindrome | Easy | C++ |
+| 88. Merge Sorted Array | Easy | C++ |
 <!-- AUTO_RECENT_END -->
 
 ---
@@ -69,7 +95,9 @@ Loading...
 # 💻 Languages Used
 
 <!-- AUTO_LANG_START -->
-Loading...
+| Language | Solutions |
+|---|---:|
+| C++ | 10 |
 <!-- AUTO_LANG_END -->
 
 ---
@@ -77,7 +105,7 @@ Loading...
 # 📅 Last Updated
 
 <!-- AUTO_DATE_START -->
-Loading...
+29 June 2026 10:39 UTC
 <!-- AUTO_DATE_END -->
 
 ---
