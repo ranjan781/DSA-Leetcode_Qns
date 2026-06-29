@@ -127,3 +127,19 @@ Every time I solve a new LeetCode problem:
 ---
 
 ### ⭐ If you like this repository, consider giving it a star!
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0014-longest-common-prefix) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0014-longest-common-prefix) |
+<!---LeetCode Topics End-->
