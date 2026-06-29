@@ -70,16 +70,16 @@ Loading...
 <!-- AUTO_RECENT_START -->
 | Problem | Difficulty | Language |
 |---|---|---|
-| 2021. Remove All Occurrences of a Substring | Medium | C++ |
-| 2032. Largest Odd Number in String | Easy | C++ |
-| 1078. Remove Outermost Parentheses | Easy | C++ |
-| 792. Binary Search | Easy | C++ |
-| 485. Max Consecutive Ones | Easy | C++ |
-| 189. Rotate Array | Medium | C++ |
-| 151. Reverse Words in a String | Medium | C++ |
-| 136. Single Number | Easy | C++ |
-| 125. Valid Palindrome | Easy | C++ |
 | 88. Merge Sorted Array | Easy | C++ |
+| 125. Valid Palindrome | Easy | C++ |
+| 136. Single Number | Easy | C++ |
+| 151. Reverse Words in a String | Medium | C++ |
+| 189. Rotate Array | Medium | C++ |
+| 485. Max Consecutive Ones | Easy | C++ |
+| 792. Binary Search | Easy | C++ |
+| 1078. Remove Outermost Parentheses | Easy | C++ |
+| 2032. Largest Odd Number in String | Easy | C++ |
+| 2021. Remove All Occurrences of a Substring | Medium | C++ |
 <!-- AUTO_RECENT_END -->
 
 ---
@@ -105,7 +105,7 @@ Loading...
 # 📅 Last Updated
 
 <!-- AUTO_DATE_START -->
-29 June 2026 10:39 UTC
+29 June 2026 10:46 UTC
 <!-- AUTO_DATE_END -->
 
 ---
