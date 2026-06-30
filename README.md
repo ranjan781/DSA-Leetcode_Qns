@@ -24,8 +24,8 @@
 
 | Metric | Value |
 |---|---:|
-| Total Solved | **14** |
-| 🟢 Easy | **10** |
+| Total Solved | **15** |
+| 🟢 Easy | **11** |
 | 🟡 Medium | **4** |
 | 🔴 Hard | **0** |
 
@@ -39,7 +39,7 @@
 
 ### 🟢 Easy
 
-██████████████░░░░░░ 10
+██████████████░░░░░░ 11
 
 ### 🟡 Medium
 
@@ -82,8 +82,8 @@ Loading...
 | 242 | [242. Valid Anagram](https://leetcode.com/problems/valid-anagram) | 🟢 Easy | C++ |
 | 205 | [205. Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings) | 🟢 Easy | C++ |
 | 189 | [189. Rotate Array](https://leetcode.com/problems/rotate-array) | 🟡 Medium | C++ |
+| 169 | [169. Majority Element](https://leetcode.com/problems/majority-element) | 🟢 Easy | C++ |
 | 151 | [151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string) | 🟡 Medium | C++ |
-| 136 | [136. Single Number](https://leetcode.com/problems/single-number) | 🟢 Easy | C++ |
 <!-- AUTO_RECENT_END -->
 
 ---
@@ -101,7 +101,7 @@ Loading...
 <!-- AUTO_LANG_START -->
 | Language | Solutions |
 |---|---:|
-| C++ | 14 |
+| C++ | 15 |
 <!-- AUTO_LANG_END -->
 
 ---
@@ -109,7 +109,7 @@ Loading...
 # 📅 Last Updated
 
 <!-- AUTO_DATE_START -->
-30 June 2026 17:59 UTC
+30 June 2026 18:08 UTC
 <!-- AUTO_DATE_END -->
 
 ---
