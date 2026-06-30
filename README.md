@@ -134,6 +134,7 @@ Every time I solve a new LeetCode problem:
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0014-longest-common-prefix) |
+| [0075-sort-colors](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0075-sort-colors) |
 ## String
 |  |
 | ------- |
@@ -152,5 +153,10 @@ Every time I solve a new LeetCode problem:
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0242-valid-anagram) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
