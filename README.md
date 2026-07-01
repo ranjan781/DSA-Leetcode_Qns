@@ -24,9 +24,9 @@
 
 | Metric | Value |
 |---|---:|
-| Total Solved | **18** |
+| Total Solved | **19** |
 | 🟢 Easy | **12** |
-| 🟡 Medium | **6** |
+| 🟡 Medium | **7** |
 | 🔴 Hard | **0** |
 
 <!-- AUTO_STATS_END -->
@@ -39,11 +39,11 @@
 
 ### 🟢 Easy
 
-█████████████░░░░░░░ 12
+████████████░░░░░░░░ 12
 
 ### 🟡 Medium
 
-██████░░░░░░░░░░░░░░ 6
+███████░░░░░░░░░░░░░ 7
 
 ### 🔴 Hard
 
@@ -101,7 +101,7 @@ Loading...
 <!-- AUTO_LANG_START -->
 | Language | Solutions |
 |---|---:|
-| C++ | 18 |
+| C++ | 19 |
 <!-- AUTO_LANG_END -->
 
 ---
@@ -109,7 +109,7 @@ Loading...
 # 📅 Last Updated
 
 <!-- AUTO_DATE_START -->
-01 July 2026 11:26 UTC
+01 July 2026 12:10 UTC
 <!-- AUTO_DATE_END -->
 
 ---
