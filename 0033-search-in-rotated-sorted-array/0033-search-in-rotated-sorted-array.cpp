@@ -8,6 +8,11 @@ public:
             if(nums[mid]==target){
                 return mid;
             }
+            if(nums[low]==nums[mid] && nums[mid]==nums[high]){
+                low++;
+                high--;
+                continue;
+            }
             else if(nums[low]<=nums[mid]){//left part sorted
                 if(nums[low]<=target && target<=nums[mid]){ //is there target lies btw
                     high=mid-1;
