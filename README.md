@@ -191,4 +191,8 @@ Every time I solve a new LeetCode problem:
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1480-running-sum-of-1d-array) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
