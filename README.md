@@ -24,8 +24,8 @@
 
 | Metric | Value |
 |---|---:|
-| Total Solved | **19** |
-| 🟢 Easy | **12** |
+| Total Solved | **20** |
+| 🟢 Easy | **13** |
 | 🟡 Medium | **7** |
 | 🔴 Hard | **0** |
 
@@ -39,7 +39,7 @@
 
 ### 🟢 Easy
 
-████████████░░░░░░░░ 12
+█████████████░░░░░░░ 13
 
 ### 🟡 Medium
 
@@ -76,6 +76,7 @@ Loading...
 |---|---|---|---|
 | 1910 | [2021. Remove All Occurrences of a Substring](https://leetcode.com/problems/remove-all-occurrences-of-a-substring) | 🟡 Medium | C++ |
 | 1903 | [2032. Largest Odd Number in String](https://leetcode.com/problems/largest-odd-number-in-string) | 🟢 Easy | C++ |
+| 1480 | [1603. Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array) | 🟢 Easy | C++ |
 | 1021 | [1078. Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses) | 🟢 Easy | C++ |
 | 704 | [792. Binary Search](https://leetcode.com/problems/binary-search) | 🟢 Easy | C++ |
 | 485 | [485. Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones) | 🟢 Easy | C++ |
@@ -83,7 +84,6 @@ Loading...
 | 205 | [205. Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings) | 🟢 Easy | C++ |
 | 189 | [189. Rotate Array](https://leetcode.com/problems/rotate-array) | 🟡 Medium | C++ |
 | 169 | [169. Majority Element](https://leetcode.com/problems/majority-element) | 🟢 Easy | C++ |
-| 151 | [151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string) | 🟡 Medium | C++ |
 <!-- AUTO_RECENT_END -->
 
 ---
@@ -101,7 +101,7 @@ Loading...
 <!-- AUTO_LANG_START -->
 | Language | Solutions |
 |---|---:|
-| C++ | 19 |
+| C++ | 20 |
 <!-- AUTO_LANG_END -->
 
 ---
@@ -109,7 +109,7 @@ Loading...
 # 📅 Last Updated
 
 <!-- AUTO_DATE_START -->
-01 July 2026 12:56 UTC
+02 July 2026 08:06 UTC
 <!-- AUTO_DATE_END -->
 
 ---
