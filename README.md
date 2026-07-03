@@ -24,9 +24,9 @@
 
 | Metric | Value |
 |---|---:|
-| Total Solved | **23** |
+| Total Solved | **24** |
 | 🟢 Easy | **16** |
-| 🟡 Medium | **7** |
+| 🟡 Medium | **8** |
 | 🔴 Hard | **0** |
 
 <!-- AUTO_STATS_END -->
@@ -43,7 +43,7 @@
 
 ### 🟡 Medium
 
-██████░░░░░░░░░░░░░░ 7
+██████░░░░░░░░░░░░░░ 8
 
 ### 🔴 Hard
 
@@ -102,6 +102,7 @@ Loading...
 | Language | Solutions |
 |---|---:|
 | C++ | 21 |
+| Unknown | 1 |
 | Postgresql | 1 |
 | Python | 1 |
 <!-- AUTO_LANG_END -->
@@ -111,7 +112,7 @@ Loading...
 # 📅 Last Updated
 
 <!-- AUTO_DATE_START -->
-03 July 2026 17:15 UTC
+03 July 2026 17:17 UTC
 <!-- AUTO_DATE_END -->
 
 ---
