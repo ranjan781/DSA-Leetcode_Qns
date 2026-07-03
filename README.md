@@ -24,8 +24,8 @@
 
 | Metric | Value |
 |---|---:|
-| Total Solved | **22** |
-| 🟢 Easy | **15** |
+| Total Solved | **23** |
+| 🟢 Easy | **16** |
 | 🟡 Medium | **7** |
 | 🔴 Hard | **0** |
 
@@ -39,7 +39,7 @@
 
 ### 🟢 Easy
 
-█████████████░░░░░░░ 15
+█████████████░░░░░░░ 16
 
 ### 🟡 Medium
 
@@ -74,6 +74,7 @@ Loading...
 <!-- AUTO_RECENT_START -->
 | # | Problem | Difficulty | Language |
 |---|---|---|---|
+| 2878 | [3076. Get the Size of a DataFrame](https://leetcode.com/problems/get-the-size-of-a-dataframe) | 🟢 Easy | Python |
 | 1910 | [2021. Remove All Occurrences of a Substring](https://leetcode.com/problems/remove-all-occurrences-of-a-substring) | 🟡 Medium | C++ |
 | 1903 | [2032. Largest Odd Number in String](https://leetcode.com/problems/largest-odd-number-in-string) | 🟢 Easy | C++ |
 | 1480 | [1603. Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array) | 🟢 Easy | C++ |
@@ -83,7 +84,6 @@ Loading...
 | 485 | [485. Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones) | 🟢 Easy | C++ |
 | 242 | [242. Valid Anagram](https://leetcode.com/problems/valid-anagram) | 🟢 Easy | C++ |
 | 205 | [205. Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings) | 🟢 Easy | C++ |
-| 189 | [189. Rotate Array](https://leetcode.com/problems/rotate-array) | 🟡 Medium | C++ |
 <!-- AUTO_RECENT_END -->
 
 ---
@@ -103,6 +103,7 @@ Loading...
 |---|---:|
 | C++ | 21 |
 | Unknown | 1 |
+| Python | 1 |
 <!-- AUTO_LANG_END -->
 
 ---
@@ -110,7 +111,7 @@ Loading...
 # 📅 Last Updated
 
 <!-- AUTO_DATE_START -->
-03 July 2026 07:55 UTC
+03 July 2026 08:00 UTC
 <!-- AUTO_DATE_END -->
 
 ---
