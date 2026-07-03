@@ -48,9 +48,7 @@ def parse_problem(folder):
 
     if m:
         url = m.group(1)
-
         raw = re.sub("<.*?>", "", m.group(2))
-
         title = raw
 
     d = re.search(r'<h3>(Easy|Medium|Hard)</h3>', text)
@@ -61,6 +59,12 @@ def parse_problem(folder):
     solution = get_solution_file(folder)
 
     pid = folder.name.split("-")[0]
+
+    # 🔥 Use latest modified file instead of folder time
+    modified = readme.stat().st_mtime
+
+    if solution:
+        modified = max(modified, solution.stat().st_mtime)
 
     return {
 
@@ -80,7 +84,7 @@ def parse_problem(folder):
 
         "loc": count_lines(solution),
 
-        "modified": folder.stat().st_mtime
+        "modified": modified
 
     }
 
