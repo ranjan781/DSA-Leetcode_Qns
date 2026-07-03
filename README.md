@@ -100,8 +100,8 @@ Loading...
 | Language | Solutions |
 |---|---:|
 | C++ | 21 |
-| Postgresql | 1 |
 | Python | 1 |
+| SQL | 1 |
 <!-- AUTO_LANG_END -->
 
 ---
@@ -109,7 +109,7 @@ Loading...
 # 📅 Last Updated
 
 <!-- AUTO_DATE_START -->
-03 July 2026 • 17:42
+03 July 2026 • 17:43
 <!-- AUTO_DATE_END -->
 
 ---
