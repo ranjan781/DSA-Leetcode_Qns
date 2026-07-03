@@ -12,7 +12,8 @@ LANGUAGE_MAP = {
     ".go": "Go",
     ".cs": "C#",
     ".kt": "Kotlin",
-    ".rs": "Rust"
+    ".rs": "Rust",
+    ".sql": "Postgresql"
 }
 
 
