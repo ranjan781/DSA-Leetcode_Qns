@@ -13,11 +13,11 @@ LANGUAGE_MAP = {
     ".cs": "C#",
     ".kt": "Kotlin",
     ".rs": "Rust",
-    ".sql": "Postgresql"
+    ".sql": "SQL"
 }
 
 
-def get_solution_file(folder):
+def get_solution_file(folder: Path):
     for file in folder.iterdir():
         if file.is_file() and file.suffix.lower() in LANGUAGE_MAP:
             return file
@@ -25,13 +25,14 @@ def get_solution_file(folder):
 
 
 def count_lines(file):
-    if file is None:
+    if not file:
         return 0
+
     with open(file, encoding="utf-8", errors="ignore") as f:
         return len(f.readlines())
 
 
-def parse_problem(folder):
+def parse_problem(folder: Path):
 
     readme = folder / "README.md"
 
@@ -44,48 +45,54 @@ def parse_problem(folder):
     difficulty = "Unknown"
     url = ""
 
-    m = re.search(r'<h2><a href="([^"]+)">(.+?)</a></h2>', text)
+    title_match = re.search(
+        r'<h2><a href="([^"]+)">(.+?)</a></h2>',
+        text,
+        re.DOTALL,
+    )
 
-    if m:
-        url = m.group(1)
-        raw = re.sub("<.*?>", "", m.group(2))
-        title = raw
+    if title_match:
+        url = title_match.group(1)
 
-    d = re.search(r'<h3>(Easy|Medium|Hard)</h3>', text)
+        title = re.sub("<.*?>", "", title_match.group(2)).strip()
 
-    if d:
-        difficulty = d.group(1)
+    diff_match = re.search(
+        r'<h3>(Easy|Medium|Hard)</h3>',
+        text,
+        re.IGNORECASE,
+    )
+
+    if diff_match:
+        difficulty = diff_match.group(1).title()
 
     solution = get_solution_file(folder)
 
-    pid = folder.name.split("-")[0]
+    try:
+        pid = int(folder.name.split("-")[0])
+    except:
+        return None
 
-    # 🔥 Use latest modified file instead of folder time
     modified = readme.stat().st_mtime
 
     if solution:
-        modified = max(modified, solution.stat().st_mtime)
+        modified = max(
+            modified,
+            solution.stat().st_mtime
+        )
 
     return {
-
-        "id": int(pid),
-
+        "id": pid,
         "folder": folder.name,
-
         "title": title,
-
         "difficulty": difficulty,
-
         "url": url,
-
-        "language": LANGUAGE_MAP.get(solution.suffix.lower(), "Unknown") if solution else "Unknown",
-
+        "language": LANGUAGE_MAP.get(
+            solution.suffix.lower(),
+            "Unknown"
+        ) if solution else "Unknown",
         "solution": solution.name if solution else "",
-
         "loc": count_lines(solution),
-
-        "modified": modified
-
+        "modified": modified,
     }
 
 
@@ -93,7 +100,9 @@ def scan_repository():
 
     problems = []
 
-    for item in Path(".").iterdir():
+    root = Path(".")
+
+    for item in root.iterdir():
 
         if not item.is_dir():
             continue
@@ -104,10 +113,13 @@ def scan_repository():
         if item.name == "scripts":
             continue
 
-        data = parse_problem(item)
+        if not re.match(r"^\d+", item.name):
+            continue
 
-        if data:
-            problems.append(data)
+        problem = parse_problem(item)
+
+        if problem:
+            problems.append(problem)
 
     problems.sort(key=lambda x: x["id"])
 
