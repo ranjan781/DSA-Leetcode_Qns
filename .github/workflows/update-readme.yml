@@ -2,7 +2,7 @@ name: Update LeetCode README
 
 concurrency:
   group: update-readme
-  cancel-in-progress: true
+  cancel-in-progress: false
 
 on:
   push:
