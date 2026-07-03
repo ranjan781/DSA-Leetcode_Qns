@@ -1,13 +1,10 @@
 name: Update LeetCode README
 
-concurrency:
-  group: update-readme
-  cancel-in-progress: true
-
 on:
   push:
     branches:
       - main
+
   workflow_dispatch:
 
 permissions:
@@ -15,7 +12,6 @@ permissions:
 
 jobs:
   update-readme:
-    # Prevent infinite loop
     if: github.actor != 'github-actions[bot]'
 
     runs-on: ubuntu-latest
@@ -25,16 +21,11 @@ jobs:
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
-          persist-credentials: true
 
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
-
-      - name: Install dependencies
-        run: |
-          python -m pip install --upgrade pip
 
       - name: Generate README
         run: |
@@ -47,7 +38,6 @@ jobs:
 
           git add README.md
 
-          # Exit if nothing changed
           if git diff --cached --quiet; then
             echo "No README changes."
             exit 0
@@ -55,21 +45,21 @@ jobs:
 
           git commit -m "🤖 Auto Update README"
 
-          # Retry push up to 5 times
-          for i in {1..5}; do
-            echo "Attempt $i..."
+          # Fetch latest branch
+          git fetch origin main
 
-            git fetch origin main
-            git rebase origin/main
+          # Reset local branch to latest remote
+          git reset --soft origin/main
 
-            if git push origin HEAD:main; then
-              echo "✅ Push successful!"
-              exit 0
-            fi
+          # Re-add README after reset
+          python scripts/update_readme.py
+          git add README.md
 
-            echo "Push failed. Retrying in 3 seconds..."
-            sleep 3
-          done
+          if git diff --cached --quiet; then
+            echo "README already up to date."
+            exit 0
+          fi
 
-          echo "❌ Failed after 5 attempts."
-          exit 1
+          git commit -m "🤖 Auto Update README"
+
+          git push origin HEAD:main
