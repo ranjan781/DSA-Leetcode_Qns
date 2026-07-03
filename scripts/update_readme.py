@@ -8,7 +8,6 @@ from generator import (
     generate_languages,
     generate_date,
 )
-
 from utils import update_section
 
 README = Path("README.md")
@@ -17,49 +16,43 @@ README = Path("README.md")
 def main():
 
     if not README.exists():
-        print("README.md not found")
-        return
+        raise FileNotFoundError("README.md not found")
+
+    print("Scanning repository...")
 
     problems = scan_repository()
 
-    readme = README.read_text(encoding="utf-8")
+    print(f"Found {len(problems)} problems.")
 
-    readme = update_section(
-        readme,
-        "stats",
-        generate_stats(problems),
+    readme = README.read_text(
+        encoding="utf-8",
+        errors="ignore"
     )
 
-    readme = update_section(
+    sections = {
+        "stats": generate_stats(problems),
+        "progress": generate_progress(problems),
+        "recent": generate_recent(problems),
+        "languages": generate_languages(problems),
+        "date": generate_date(),
+    }
+
+    for key, value in sections.items():
+        readme = update_section(
+            readme,
+            key,
+            value
+        )
+
+    README.write_text(
         readme,
-        "progress",
-        generate_progress(problems),
+        encoding="utf-8"
     )
 
-    readme = update_section(
-        readme,
-        "recent",
-        generate_recent(problems),
-    )
-
-    readme = update_section(
-        readme,
-        "languages",
-        generate_languages(problems),
-    )
-
-    readme = update_section(
-        readme,
-        "date",
-        generate_date(),
-    )
-
-    README.write_text(readme, encoding="utf-8")
-
-    print("=" * 50)
-    print("README Updated Successfully")
-    print("=" * 50)
-    print(f"Problems : {len(problems)}")
+    print("=" * 60)
+    print("✅ README Updated Successfully")
+    print("=" * 60)
+    print(f"Total Problems : {len(problems)}")
 
 
 if __name__ == "__main__":
