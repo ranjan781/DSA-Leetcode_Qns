@@ -23,9 +23,9 @@
 <!-- AUTO_STATS_START -->
 | Metric | Value |
 |---|---:|
-| Total Solved | **23** |
+| Total Solved | **24** |
 | 🟢 Easy | **16** |
-| 🟡 Medium | **7** |
+| 🟡 Medium | **8** |
 | 🔴 Hard | **0** |
 
 <!-- AUTO_STATS_END -->
@@ -37,15 +37,15 @@
 <!-- AUTO_PROGRESS_START -->
 ### 🟢 Easy
 
-██████████████░░░░░░ 16/23
+█████████████░░░░░░░ 16/24
 
 ### 🟡 Medium
 
-██████░░░░░░░░░░░░░░ 7/23
+███████░░░░░░░░░░░░░ 8/24
 
 ### 🔴 Hard
 
-░░░░░░░░░░░░░░░░░░░░ 0/23
+░░░░░░░░░░░░░░░░░░░░ 0/24
 
 <!-- AUTO_PROGRESS_END -->
 
@@ -79,9 +79,9 @@ Loading...
 | 1470 | [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array) | 🟢 Easy | C++ |
 | 1021 | [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses) | 🟢 Easy | C++ |
 | 704 | [Binary Search](https://leetcode.com/problems/binary-search) | 🟢 Easy | C++ |
+| 540 | [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array) | 🟡 Medium | C++ |
 | 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones) | 🟢 Easy | C++ |
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram) | 🟢 Easy | C++ |
-| 205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings) | 🟢 Easy | C++ |
 <!-- AUTO_RECENT_END -->
 
 ---
@@ -99,7 +99,7 @@ Loading...
 <!-- AUTO_LANG_START -->
 | Language | Solutions |
 |---|---:|
-| C++ | 21 |
+| C++ | 22 |
 | Python | 1 |
 | SQL | 1 |
 <!-- AUTO_LANG_END -->
@@ -109,7 +109,7 @@ Loading...
 # 📅 Last Updated
 
 <!-- AUTO_DATE_START -->
-03 July 2026 • 17:48
+04 July 2026 • 10:17
 <!-- AUTO_DATE_END -->
 
 ---
