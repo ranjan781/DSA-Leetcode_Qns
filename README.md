@@ -23,9 +23,9 @@
 <!-- AUTO_STATS_START -->
 | Metric | Value |
 |---|---:|
-| Total Solved | **27** |
+| Total Solved | **28** |
 | 🟢 Easy | **16** |
-| 🟡 Medium | **11** |
+| 🟡 Medium | **12** |
 | 🔴 Hard | **0** |
 
 <!-- AUTO_STATS_END -->
@@ -37,15 +37,15 @@
 <!-- AUTO_PROGRESS_START -->
 ### 🟢 Easy
 
-████████████░░░░░░░░ 16/27
+███████████░░░░░░░░░ 16/28
 
 ### 🟡 Medium
 
-████████░░░░░░░░░░░░ 11/27
+█████████░░░░░░░░░░░ 12/28
 
 ### 🔴 Hard
 
-░░░░░░░░░░░░░░░░░░░░ 0/27
+░░░░░░░░░░░░░░░░░░░░ 0/28
 
 <!-- AUTO_PROGRESS_END -->
 
@@ -75,13 +75,13 @@ Loading...
 | 2878 | [Get the Size of a DataFrame](https://leetcode.com/problems/get-the-size-of-a-dataframe) | 🟢 Easy | Python |
 | 1910 | [Remove All Occurrences of a Substring](https://leetcode.com/problems/remove-all-occurrences-of-a-substring) | 🟡 Medium | C++ |
 | 1903 | [Largest Odd Number in String](https://leetcode.com/problems/largest-odd-number-in-string) | 🟢 Easy | C++ |
+| 1482 | [Minimum Number of Days to Make m Bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets) | 🟡 Medium | C++ |
 | 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array) | 🟢 Easy | C++ |
 | 1470 | [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array) | 🟢 Easy | C++ |
 | 1021 | [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses) | 🟢 Easy | C++ |
 | 875 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas) | 🟡 Medium | C++ |
 | 704 | [Binary Search](https://leetcode.com/problems/binary-search) | 🟢 Easy | C++ |
 | 540 | [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array) | 🟡 Medium | C++ |
-| 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones) | 🟢 Easy | C++ |
 <!-- AUTO_RECENT_END -->
 
 ---
@@ -99,7 +99,7 @@ Loading...
 <!-- AUTO_LANG_START -->
 | Language | Solutions |
 |---|---:|
-| C++ | 25 |
+| C++ | 26 |
 | Python | 1 |
 | SQL | 1 |
 <!-- AUTO_LANG_END -->
@@ -109,7 +109,7 @@ Loading...
 # 📅 Last Updated
 
 <!-- AUTO_DATE_START -->
-05 July 2026 • 09:35
+05 July 2026 • 18:10
 <!-- AUTO_DATE_END -->
 
 ---
