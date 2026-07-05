@@ -188,6 +188,7 @@ Every time I solve a new LeetCode problem:
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0053-maximum-subarray) |
+| [0509-fibonacci-number](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0509-fibonacci-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -208,4 +209,16 @@ Every time I solve a new LeetCode problem:
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0175-combine-two-tables) |
+## Math
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
