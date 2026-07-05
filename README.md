@@ -139,6 +139,7 @@ Every time I solve a new LeetCode problem:
 | [0035-search-insert-position](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0075-sort-colors) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0169-majority-element) |
@@ -191,6 +192,7 @@ Every time I solve a new LeetCode problem:
 | [0033-search-in-rotated-sorted-array](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0035-search-insert-position) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0540-single-element-in-a-sorted-array) |
