@@ -23,9 +23,9 @@
 <!-- AUTO_STATS_START -->
 | Metric | Value |
 |---|---:|
-| Total Solved | **25** |
+| Total Solved | **27** |
 | 🟢 Easy | **16** |
-| 🟡 Medium | **9** |
+| 🟡 Medium | **11** |
 | 🔴 Hard | **0** |
 
 <!-- AUTO_STATS_END -->
@@ -37,15 +37,15 @@
 <!-- AUTO_PROGRESS_START -->
 ### 🟢 Easy
 
-█████████████░░░░░░░ 16/25
+████████████░░░░░░░░ 16/27
 
 ### 🟡 Medium
 
-███████░░░░░░░░░░░░░ 9/25
+████████░░░░░░░░░░░░ 11/27
 
 ### 🔴 Hard
 
-░░░░░░░░░░░░░░░░░░░░ 0/25
+░░░░░░░░░░░░░░░░░░░░ 0/27
 
 <!-- AUTO_PROGRESS_END -->
 
@@ -78,10 +78,10 @@ Loading...
 | 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array) | 🟢 Easy | C++ |
 | 1470 | [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array) | 🟢 Easy | C++ |
 | 1021 | [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses) | 🟢 Easy | C++ |
+| 875 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas) | 🟡 Medium | C++ |
 | 704 | [Binary Search](https://leetcode.com/problems/binary-search) | 🟢 Easy | C++ |
 | 540 | [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array) | 🟡 Medium | C++ |
 | 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones) | 🟢 Easy | C++ |
-| 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram) | 🟢 Easy | C++ |
 <!-- AUTO_RECENT_END -->
 
 ---
@@ -99,7 +99,7 @@ Loading...
 <!-- AUTO_LANG_START -->
 | Language | Solutions |
 |---|---:|
-| C++ | 23 |
+| C++ | 25 |
 | Python | 1 |
 | SQL | 1 |
 <!-- AUTO_LANG_END -->
@@ -109,7 +109,7 @@ Loading...
 # 📅 Last Updated
 
 <!-- AUTO_DATE_START -->
-04 July 2026 • 15:29
+05 July 2026 • 09:35
 <!-- AUTO_DATE_END -->
 
 ---
