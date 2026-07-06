@@ -23,9 +23,9 @@
 <!-- AUTO_STATS_START -->
 | Metric | Value |
 |---|---:|
-| Total Solved | **30** |
+| Total Solved | **31** |
 | 🟢 Easy | **17** |
-| 🟡 Medium | **13** |
+| 🟡 Medium | **14** |
 | 🔴 Hard | **0** |
 
 <!-- AUTO_STATS_END -->
@@ -37,15 +37,15 @@
 <!-- AUTO_PROGRESS_START -->
 ### 🟢 Easy
 
-███████████░░░░░░░░░ 17/30
+███████████░░░░░░░░░ 17/31
 
 ### 🟡 Medium
 
-█████████░░░░░░░░░░░ 13/30
+█████████░░░░░░░░░░░ 14/31
 
 ### 🔴 Hard
 
-░░░░░░░░░░░░░░░░░░░░ 0/30
+░░░░░░░░░░░░░░░░░░░░ 0/31
 
 <!-- AUTO_PROGRESS_END -->
 
@@ -80,8 +80,8 @@ Loading...
 | 1470 | [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array) | 🟢 Easy | C++ |
 | 1283 | [Find the Smallest Divisor Given a Threshold](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold) | 🟡 Medium | C++ |
 | 1021 | [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses) | 🟢 Easy | C++ |
+| 1011 | [Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days) | 🟡 Medium | C++ |
 | 875 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas) | 🟡 Medium | C++ |
-| 704 | [Binary Search](https://leetcode.com/problems/binary-search) | 🟢 Easy | C++ |
 <!-- AUTO_RECENT_END -->
 
 ---
@@ -99,7 +99,7 @@ Loading...
 <!-- AUTO_LANG_START -->
 | Language | Solutions |
 |---|---:|
-| C++ | 28 |
+| C++ | 29 |
 | Python | 1 |
 | SQL | 1 |
 <!-- AUTO_LANG_END -->
@@ -109,7 +109,7 @@ Loading...
 # 📅 Last Updated
 
 <!-- AUTO_DATE_START -->
-06 July 2026 • 10:15
+06 July 2026 • 13:08
 <!-- AUTO_DATE_END -->
 
 ---
