@@ -23,9 +23,9 @@
 <!-- AUTO_STATS_START -->
 | Metric | Value |
 |---|---:|
-| Total Solved | **29** |
+| Total Solved | **30** |
 | 🟢 Easy | **17** |
-| 🟡 Medium | **12** |
+| 🟡 Medium | **13** |
 | 🔴 Hard | **0** |
 
 <!-- AUTO_STATS_END -->
@@ -37,15 +37,15 @@
 <!-- AUTO_PROGRESS_START -->
 ### 🟢 Easy
 
-████████████░░░░░░░░ 17/29
+███████████░░░░░░░░░ 17/30
 
 ### 🟡 Medium
 
-████████░░░░░░░░░░░░ 12/29
+█████████░░░░░░░░░░░ 13/30
 
 ### 🔴 Hard
 
-░░░░░░░░░░░░░░░░░░░░ 0/29
+░░░░░░░░░░░░░░░░░░░░ 0/30
 
 <!-- AUTO_PROGRESS_END -->
 
@@ -78,10 +78,10 @@ Loading...
 | 1482 | [Minimum Number of Days to Make m Bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets) | 🟡 Medium | C++ |
 | 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array) | 🟢 Easy | C++ |
 | 1470 | [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array) | 🟢 Easy | C++ |
+| 1283 | [Find the Smallest Divisor Given a Threshold](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold) | 🟡 Medium | C++ |
 | 1021 | [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses) | 🟢 Easy | C++ |
 | 875 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas) | 🟡 Medium | C++ |
 | 704 | [Binary Search](https://leetcode.com/problems/binary-search) | 🟢 Easy | C++ |
-| 540 | [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array) | 🟡 Medium | C++ |
 <!-- AUTO_RECENT_END -->
 
 ---
@@ -99,7 +99,7 @@ Loading...
 <!-- AUTO_LANG_START -->
 | Language | Solutions |
 |---|---:|
-| C++ | 27 |
+| C++ | 28 |
 | Python | 1 |
 | SQL | 1 |
 <!-- AUTO_LANG_END -->
@@ -109,7 +109,7 @@ Loading...
 # 📅 Last Updated
 
 <!-- AUTO_DATE_START -->
-05 July 2026 • 18:12
+06 July 2026 • 10:15
 <!-- AUTO_DATE_END -->
 
 ---
