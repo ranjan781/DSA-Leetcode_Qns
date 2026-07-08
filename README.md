@@ -240,11 +240,13 @@ Every time I solve a new LeetCode problem:
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0232-implement-queue-using-stacks) |
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0232-implement-queue-using-stacks) |
 ## Queue
