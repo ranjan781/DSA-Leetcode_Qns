@@ -137,6 +137,7 @@ Every time I solve a new LeetCode problem:
 | [0033-search-in-rotated-sorted-array](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -182,6 +183,7 @@ Every time I solve a new LeetCode problem:
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0075-sort-colors) |
 ## Divide and Conquer
 |  |
@@ -195,6 +197,7 @@ Every time I solve a new LeetCode problem:
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0053-maximum-subarray) |
 | [0410-split-array-largest-sum](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0509-fibonacci-number) |
@@ -243,6 +246,7 @@ Every time I solve a new LeetCode problem:
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0232-implement-queue-using-stacks) |
@@ -262,6 +266,7 @@ Every time I solve a new LeetCode problem:
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0503-next-greater-element-ii) |
 ## Linked List
