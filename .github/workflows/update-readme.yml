@@ -53,7 +53,7 @@ jobs:
             exit 0
           fi
 
-          git commit -m "🤖 Auto Update README"
+          git commit -m " Auto Update README"
 
           git pull --rebase origin main || true
           git push origin main || true
