@@ -140,6 +140,7 @@ Every time I solve a new LeetCode problem:
 | [0035-search-insert-position](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -233,6 +234,7 @@ Every time I solve a new LeetCode problem:
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0066-plus-one) |
 | [0509-fibonacci-number](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
