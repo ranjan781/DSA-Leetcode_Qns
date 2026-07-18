@@ -5,7 +5,7 @@ public:
         for(int val :nums){
             currsum+=val;
             maxSum=max(currsum,maxSum);
-            if(currsum<0){
+            if(currsum<0){ 
                 currsum=0;
             }
         }
