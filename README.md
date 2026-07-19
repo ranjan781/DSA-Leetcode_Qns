@@ -261,6 +261,7 @@ Every time I solve a new LeetCode problem:
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0175-combine-two-tables) |
+| [0184-department-highest-salary](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0184-department-highest-salary) |
 ## Math
 |  |
 | ------- |
