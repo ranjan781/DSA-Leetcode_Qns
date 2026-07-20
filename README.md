@@ -271,6 +271,7 @@ Every time I solve a new LeetCode problem:
 | [0002-add-two-numbers](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0066-plus-one) |
+| [0258-add-digits](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0441-arranging-coins) |
@@ -340,5 +341,10 @@ Every time I solve a new LeetCode problem:
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0258-add-digits) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/2149-rearrange-array-elements-by-sign) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
