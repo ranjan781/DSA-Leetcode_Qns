@@ -265,6 +265,7 @@ Every time I solve a new LeetCode problem:
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0367-valid-perfect-square) |
@@ -273,6 +274,7 @@ Every time I solve a new LeetCode problem:
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0002-add-two-numbers) |
 | [0509-fibonacci-number](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -315,6 +317,7 @@ Every time I solve a new LeetCode problem:
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0002-add-two-numbers) |
 | [0237-delete-node-in-a-linked-list](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0237-delete-node-in-a-linked-list) |
 ## Bit Manipulation
 |  |
