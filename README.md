@@ -173,6 +173,7 @@ Every time I solve a new LeetCode problem:
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0020-valid-parentheses) |
 | [0205-isomorphic-strings](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0205-isomorphic-strings) |
@@ -185,6 +186,7 @@ Every time I solve a new LeetCode problem:
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0217-contains-duplicate) |
@@ -267,6 +269,7 @@ Every time I solve a new LeetCode problem:
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0002-add-two-numbers) |
+| [0013-roman-to-integer](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0367-valid-perfect-square) |
