@@ -23,8 +23,8 @@
 <!-- AUTO_STATS_START -->
 | Metric | Value |
 |---|---:|
-| Total Solved | **65** |
-| 🟢 Easy | **39** |
+| Total Solved | **66** |
+| 🟢 Easy | **40** |
 | 🟡 Medium | **24** |
 | 🔴 Hard | **2** |
 
@@ -37,15 +37,15 @@
 <!-- AUTO_PROGRESS_START -->
 ### 🟢 Easy
 
-████████████░░░░░░░░ 39/65
+████████████░░░░░░░░ 40/66
 
 ### 🟡 Medium
 
-███████░░░░░░░░░░░░░ 24/65
+███████░░░░░░░░░░░░░ 24/66
 
 ### 🔴 Hard
 
-█░░░░░░░░░░░░░░░░░░░ 2/65
+█░░░░░░░░░░░░░░░░░░░ 2/66
 
 <!-- AUTO_PROGRESS_END -->
 
@@ -74,6 +74,7 @@ Loading...
 |---|---|---|---|
 | 2878 | [Get the Size of a DataFrame](https://leetcode.com/problems/get-the-size-of-a-dataframe) | 🟢 Easy | Python |
 | 2149 | [Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign) | 🟡 Medium | C++ |
+| 2235 | [Add Two Integers](https://leetcode.com/problems/add-two-integers) | 🟢 Easy | Unknown |
 | 2104 | [Sum of Subarray Ranges](https://leetcode.com/problems/sum-of-subarray-ranges) | 🟡 Medium | C++ |
 | 2089 | [Find Target Indices After Sorting Array](https://leetcode.com/problems/find-target-indices-after-sorting-array) | 🟢 Easy | C++ |
 | 1910 | [Remove All Occurrences of a Substring](https://leetcode.com/problems/remove-all-occurrences-of-a-substring) | 🟡 Medium | C++ |
@@ -81,7 +82,6 @@ Loading...
 | 1539 | [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number) | 🟢 Easy | C++ |
 | 1482 | [Minimum Number of Days to Make m Bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets) | 🟡 Medium | C++ |
 | 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array) | 🟢 Easy | C++ |
-| 1470 | [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array) | 🟢 Easy | C++ |
 <!-- AUTO_RECENT_END -->
 
 ---
@@ -103,6 +103,7 @@ Loading...
 | Java | 3 |
 | SQL | 2 |
 | Python | 1 |
+| Unknown | 1 |
 <!-- AUTO_LANG_END -->
 
 ---
@@ -110,7 +111,7 @@ Loading...
 # 📅 Last Updated
 
 <!-- AUTO_DATE_START -->
-20 July 2026 • 17:30
+20 July 2026 • 17:32
 <!-- AUTO_DATE_END -->
 
 ---
