@@ -23,8 +23,8 @@
 <!-- AUTO_STATS_START -->
 | Metric | Value |
 |---|---:|
-| Total Solved | **66** |
-| 🟢 Easy | **40** |
+| Total Solved | **67** |
+| 🟢 Easy | **41** |
 | 🟡 Medium | **24** |
 | 🔴 Hard | **2** |
 
@@ -37,15 +37,15 @@
 <!-- AUTO_PROGRESS_START -->
 ### 🟢 Easy
 
-████████████░░░░░░░░ 40/66
+████████████░░░░░░░░ 41/67
 
 ### 🟡 Medium
 
-███████░░░░░░░░░░░░░ 24/66
+███████░░░░░░░░░░░░░ 24/67
 
 ### 🔴 Hard
 
-█░░░░░░░░░░░░░░░░░░░ 2/66
+█░░░░░░░░░░░░░░░░░░░ 2/67
 
 <!-- AUTO_PROGRESS_END -->
 
@@ -73,8 +73,8 @@ Loading...
 | # | Problem | Difficulty | Language |
 |---|---|---|---|
 | 2878 | [Get the Size of a DataFrame](https://leetcode.com/problems/get-the-size-of-a-dataframe) | 🟢 Easy | Python |
+| 2235 | [Add Two Integers](https://leetcode.com/problems/add-two-integers) | 🟢 Easy | Java |
 | 2149 | [Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign) | 🟡 Medium | C++ |
-| 2235 | [Add Two Integers](https://leetcode.com/problems/add-two-integers) | 🟢 Easy | Unknown |
 | 2104 | [Sum of Subarray Ranges](https://leetcode.com/problems/sum-of-subarray-ranges) | 🟡 Medium | C++ |
 | 2089 | [Find Target Indices After Sorting Array](https://leetcode.com/problems/find-target-indices-after-sorting-array) | 🟢 Easy | C++ |
 | 1910 | [Remove All Occurrences of a Substring](https://leetcode.com/problems/remove-all-occurrences-of-a-substring) | 🟡 Medium | C++ |
@@ -99,11 +99,10 @@ Loading...
 <!-- AUTO_LANG_START -->
 | Language | Solutions |
 |---|---:|
-| C++ | 59 |
-| Java | 3 |
+| C++ | 60 |
+| Java | 4 |
 | SQL | 2 |
 | Python | 1 |
-| Unknown | 1 |
 <!-- AUTO_LANG_END -->
 
 ---
@@ -111,7 +110,7 @@ Loading...
 # 📅 Last Updated
 
 <!-- AUTO_DATE_START -->
-20 July 2026 • 17:32
+21 July 2026 • 13:33
 <!-- AUTO_DATE_END -->
 
 ---
