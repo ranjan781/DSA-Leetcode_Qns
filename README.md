@@ -272,6 +272,7 @@ Every time I solve a new LeetCode problem:
 | [0002-add-two-numbers](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0066-plus-one) |
+| [0231-power-of-two](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0367-valid-perfect-square) |
@@ -283,6 +284,7 @@ Every time I solve a new LeetCode problem:
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0002-add-two-numbers) |
+| [0231-power-of-two](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -330,6 +332,7 @@ Every time I solve a new LeetCode problem:
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0287-find-the-duplicate-number) |
 ## Sliding Window
