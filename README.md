@@ -212,6 +212,7 @@ Every time I solve a new LeetCode problem:
 | [0031-next-permutation](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0075-sort-colors) |
+| [0234-palindrome-linked-list](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0287-find-the-duplicate-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0977-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -286,6 +287,7 @@ Every time I solve a new LeetCode problem:
 | ------- |
 | [0002-add-two-numbers](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -304,6 +306,7 @@ Every time I solve a new LeetCode problem:
 | [0155-min-stack](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0232-implement-queue-using-stacks) |
+| [0234-palindrome-linked-list](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0503-next-greater-element-ii) |
@@ -330,6 +333,7 @@ Every time I solve a new LeetCode problem:
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0002-add-two-numbers) |
+| [0234-palindrome-linked-list](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0237-delete-node-in-a-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0445-add-two-numbers-ii) |
 ## Bit Manipulation
