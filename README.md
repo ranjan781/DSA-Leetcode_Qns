@@ -23,9 +23,9 @@
 <!-- AUTO_STATS_START -->
 | Metric | Value |
 |---|---:|
-| Total Solved | **73** |
+| Total Solved | **74** |
 | 🟢 Easy | **44** |
-| 🟡 Medium | **27** |
+| 🟡 Medium | **28** |
 | 🔴 Hard | **2** |
 
 <!-- AUTO_STATS_END -->
@@ -37,15 +37,15 @@
 <!-- AUTO_PROGRESS_START -->
 ### 🟢 Easy
 
-████████████░░░░░░░░ 44/73
+████████████░░░░░░░░ 44/74
 
 ### 🟡 Medium
 
-███████░░░░░░░░░░░░░ 27/73
+████████░░░░░░░░░░░░ 28/74
 
 ### 🔴 Hard
 
-█░░░░░░░░░░░░░░░░░░░ 2/73
+█░░░░░░░░░░░░░░░░░░░ 2/74
 
 <!-- AUTO_PROGRESS_END -->
 
@@ -76,12 +76,12 @@ Loading...
 | 2235 | [Add Two Integers](https://leetcode.com/problems/add-two-integers) | 🟢 Easy | Java |
 | 2149 | [Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign) | 🟡 Medium | C++ |
 | 2104 | [Sum of Subarray Ranges](https://leetcode.com/problems/sum-of-subarray-ranges) | 🟡 Medium | C++ |
+| 2095 | [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list) | 🟡 Medium | C++ |
 | 2089 | [Find Target Indices After Sorting Array](https://leetcode.com/problems/find-target-indices-after-sorting-array) | 🟢 Easy | C++ |
 | 1910 | [Remove All Occurrences of a Substring](https://leetcode.com/problems/remove-all-occurrences-of-a-substring) | 🟡 Medium | C++ |
 | 1903 | [Largest Odd Number in String](https://leetcode.com/problems/largest-odd-number-in-string) | 🟢 Easy | C++ |
 | 1539 | [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number) | 🟢 Easy | C++ |
 | 1482 | [Minimum Number of Days to Make m Bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets) | 🟡 Medium | C++ |
-| 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array) | 🟢 Easy | C++ |
 <!-- AUTO_RECENT_END -->
 
 ---
@@ -99,7 +99,7 @@ Loading...
 <!-- AUTO_LANG_START -->
 | Language | Solutions |
 |---|---:|
-| C++ | 64 |
+| C++ | 65 |
 | Java | 6 |
 | SQL | 2 |
 | Python | 1 |
@@ -110,7 +110,7 @@ Loading...
 # 📅 Last Updated
 
 <!-- AUTO_DATE_START -->
-22 July 2026 • 13:12
+22 July 2026 • 18:04
 <!-- AUTO_DATE_END -->
 
 ---
