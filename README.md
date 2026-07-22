@@ -335,6 +335,7 @@ Every time I solve a new LeetCode problem:
 | [0002-add-two-numbers](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0002-add-two-numbers) |
 | [0234-palindrome-linked-list](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0237-delete-node-in-a-linked-list) |
+| [0328-odd-even-linked-list](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0328-odd-even-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0445-add-two-numbers-ii) |
 ## Bit Manipulation
 |  |
