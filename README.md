@@ -199,6 +199,7 @@ Every time I solve a new LeetCode problem:
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0242-valid-anagram) |
@@ -213,6 +214,7 @@ Every time I solve a new LeetCode problem:
 | [0042-trapping-rain-water](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0287-find-the-duplicate-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0977-squares-of-a-sorted-array) |
@@ -222,6 +224,7 @@ Every time I solve a new LeetCode problem:
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0169-majority-element) |
 ## Counting
 |  |
@@ -337,6 +340,7 @@ Every time I solve a new LeetCode problem:
 | ------- |
 | [0002-add-two-numbers](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0002-add-two-numbers) |
 | [0061-rotate-list](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0061-rotate-list) |
+| [0148-sort-list](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0237-delete-node-in-a-linked-list) |
@@ -367,4 +371,8 @@ Every time I solve a new LeetCode problem:
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0258-add-digits) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
