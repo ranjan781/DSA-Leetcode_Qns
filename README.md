@@ -286,6 +286,7 @@ Every time I solve a new LeetCode problem:
 | [0441-arranging-coins](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0441-arranging-coins) |
 | [0445-add-two-numbers-ii](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0445-add-two-numbers-ii) |
 | [0509-fibonacci-number](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0509-fibonacci-number) |
+| [0728-self-dividing-numbers](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0728-self-dividing-numbers) |
 | [0989-add-to-array-form-of-integer](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0989-add-to-array-form-of-integer) |
 | [2235-add-two-integers](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/2235-add-two-integers) |
 ## Recursion
