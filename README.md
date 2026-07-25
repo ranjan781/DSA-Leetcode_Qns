@@ -23,8 +23,8 @@
 <!-- AUTO_STATS_START -->
 | Metric | Value |
 |---|---:|
-| Total Solved | **84** |
-| 🟢 Easy | **51** |
+| Total Solved | **85** |
+| 🟢 Easy | **52** |
 | 🟡 Medium | **31** |
 | 🔴 Hard | **2** |
 
@@ -37,15 +37,15 @@
 <!-- AUTO_PROGRESS_START -->
 ### 🟢 Easy
 
-████████████░░░░░░░░ 51/84
+████████████░░░░░░░░ 52/85
 
 ### 🟡 Medium
 
-███████░░░░░░░░░░░░░ 31/84
+███████░░░░░░░░░░░░░ 31/85
 
 ### 🔴 Hard
 
-░░░░░░░░░░░░░░░░░░░░ 2/84
+░░░░░░░░░░░░░░░░░░░░ 2/85
 
 <!-- AUTO_PROGRESS_END -->
 
@@ -72,6 +72,7 @@ Loading...
 <!-- AUTO_RECENT_START -->
 | # | Problem | Difficulty | Language |
 |---|---|---|---|
+| 3536 | [Maximum Product of Two Digits](https://leetcode.com/problems/maximum-product-of-two-digits) | 🟢 Easy | C++ |
 | 2878 | [Get the Size of a DataFrame](https://leetcode.com/problems/get-the-size-of-a-dataframe) | 🟢 Easy | Python |
 | 2235 | [Add Two Integers](https://leetcode.com/problems/add-two-integers) | 🟢 Easy | Java |
 | 2149 | [Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign) | 🟡 Medium | C++ |
@@ -81,7 +82,6 @@ Loading...
 | 1910 | [Remove All Occurrences of a Substring](https://leetcode.com/problems/remove-all-occurrences-of-a-substring) | 🟡 Medium | C++ |
 | 1903 | [Largest Odd Number in String](https://leetcode.com/problems/largest-odd-number-in-string) | 🟢 Easy | C++ |
 | 1539 | [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number) | 🟢 Easy | C++ |
-| 1482 | [Minimum Number of Days to Make m Bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets) | 🟡 Medium | C++ |
 <!-- AUTO_RECENT_END -->
 
 ---
@@ -99,7 +99,7 @@ Loading...
 <!-- AUTO_LANG_START -->
 | Language | Solutions |
 |---|---:|
-| C++ | 71 |
+| C++ | 72 |
 | Java | 8 |
 | SQL | 2 |
 | Unknown | 2 |
@@ -111,7 +111,7 @@ Loading...
 # 📅 Last Updated
 
 <!-- AUTO_DATE_START -->
-25 July 2026 • 16:12
+25 July 2026 • 16:45
 <!-- AUTO_DATE_END -->
 
 ---
