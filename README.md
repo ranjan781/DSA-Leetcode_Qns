@@ -181,6 +181,7 @@ Every time I solve a new LeetCode problem:
 | [0013-roman-to-integer](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0389-find-the-difference) |
@@ -224,6 +225,7 @@ Every time I solve a new LeetCode problem:
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0061-rotate-list) |
@@ -399,4 +401,8 @@ Every time I solve a new LeetCode problem:
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0148-sort-list) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
