@@ -304,6 +304,7 @@ Every time I solve a new LeetCode problem:
 | [0202-happy-number](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0258-add-digits) |
+| [0263-ugly-number](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0441-arranging-coins) |
