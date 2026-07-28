@@ -23,8 +23,8 @@
 <!-- AUTO_STATS_START -->
 | Metric | Value |
 |---|---:|
-| Total Solved | **94** |
-| 🟢 Easy | **60** |
+| Total Solved | **95** |
+| 🟢 Easy | **61** |
 | 🟡 Medium | **32** |
 | 🔴 Hard | **2** |
 
@@ -37,15 +37,15 @@
 <!-- AUTO_PROGRESS_START -->
 ### 🟢 Easy
 
-█████████████░░░░░░░ 60/94
+█████████████░░░░░░░ 61/95
 
 ### 🟡 Medium
 
-███████░░░░░░░░░░░░░ 32/94
+███████░░░░░░░░░░░░░ 32/95
 
 ### 🔴 Hard
 
-░░░░░░░░░░░░░░░░░░░░ 2/94
+░░░░░░░░░░░░░░░░░░░░ 2/95
 
 <!-- AUTO_PROGRESS_END -->
 
@@ -72,6 +72,7 @@ Loading...
 <!-- AUTO_RECENT_START -->
 | # | Problem | Difficulty | Language |
 |---|---|---|---|
+| 3992 | [Rearrange String to Avoid Character Pair](https://leetcode.com/problems/rearrange-string-to-avoid-character-pair) | 🟢 Easy | C++ |
 | 3658 | [GCD of Odd and Even Sums](https://leetcode.com/problems/gcd-of-odd-and-even-sums) | 🟢 Easy | C++ |
 | 3536 | [Maximum Product of Two Digits](https://leetcode.com/problems/maximum-product-of-two-digits) | 🟢 Easy | C++ |
 | 3517 | [Smallest Palindromic Rearrangement I](https://leetcode.com/problems/smallest-palindromic-rearrangement-i) | 🟡 Medium | C++ |
@@ -81,7 +82,6 @@ Loading...
 | 2104 | [Sum of Subarray Ranges](https://leetcode.com/problems/sum-of-subarray-ranges) | 🟡 Medium | C++ |
 | 2095 | [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list) | 🟡 Medium | C++ |
 | 2089 | [Find Target Indices After Sorting Array](https://leetcode.com/problems/find-target-indices-after-sorting-array) | 🟢 Easy | C++ |
-| 1910 | [Remove All Occurrences of a Substring](https://leetcode.com/problems/remove-all-occurrences-of-a-substring) | 🟡 Medium | C++ |
 <!-- AUTO_RECENT_END -->
 
 ---
@@ -99,7 +99,7 @@ Loading...
 <!-- AUTO_LANG_START -->
 | Language | Solutions |
 |---|---:|
-| C++ | 81 |
+| C++ | 82 |
 | Java | 8 |
 | Postgresql | 2 |
 | Unknown | 2 |
@@ -111,7 +111,7 @@ Loading...
 # 📅 Last Updated
 
 <!-- AUTO_DATE_START -->
-28 July 2026 • 16:19
+28 July 2026 • 18:34
 <!-- AUTO_DATE_END -->
 
 ---
