@@ -101,7 +101,7 @@ Loading...
 |---|---:|
 | C++ | 80 |
 | Java | 8 |
-| SQL | 2 |
+| Postgresql | 2 |
 | Unknown | 2 |
 | Python | 1 |
 <!-- AUTO_LANG_END -->
@@ -111,7 +111,7 @@ Loading...
 # 📅 Last Updated
 
 <!-- AUTO_DATE_START -->
-28 July 2026 • 14:42
+28 July 2026 • 15:06
 <!-- AUTO_DATE_END -->
 
 ---
