@@ -13,7 +13,8 @@ LANGUAGE_MAP = {
     ".cs": "C#",
     ".kt": "Kotlin",
     ".rs": "Rust",
-    ".sql": "SQL"
+    ".sql": "SQL",
+    ".sql": "Postgresql"
 }
 
 
