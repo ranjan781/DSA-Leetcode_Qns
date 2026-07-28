@@ -257,6 +257,7 @@ Every time I solve a new LeetCode problem:
 | [0410-split-array-largest-sum](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0509-fibonacci-number) |
 | [0907-sum-of-subarray-minimums](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0907-sum-of-subarray-minimums) |
+| [1025-divisor-game](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1025-divisor-game) |
 ## Binary Search
 |  |
 | ------- |
@@ -308,6 +309,7 @@ Every time I solve a new LeetCode problem:
 | [0628-maximum-product-of-three-numbers](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0728-self-dividing-numbers) |
 | [0989-add-to-array-form-of-integer](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0989-add-to-array-form-of-integer) |
+| [1025-divisor-game](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1025-divisor-game) |
 | [2235-add-two-integers](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/2235-add-two-integers) |
 | [3536-maximum-product-of-two-digits](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/3536-maximum-product-of-two-digits) |
 ## Recursion
@@ -405,4 +407,12 @@ Every time I solve a new LeetCode problem:
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
