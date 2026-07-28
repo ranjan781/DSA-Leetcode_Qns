@@ -23,9 +23,9 @@
 <!-- AUTO_STATS_START -->
 | Metric | Value |
 |---|---:|
-| Total Solved | **91** |
+| Total Solved | **92** |
 | 🟢 Easy | **58** |
-| 🟡 Medium | **31** |
+| 🟡 Medium | **32** |
 | 🔴 Hard | **2** |
 
 <!-- AUTO_STATS_END -->
@@ -37,15 +37,15 @@
 <!-- AUTO_PROGRESS_START -->
 ### 🟢 Easy
 
-█████████████░░░░░░░ 58/91
+█████████████░░░░░░░ 58/92
 
 ### 🟡 Medium
 
-███████░░░░░░░░░░░░░ 31/91
+███████░░░░░░░░░░░░░ 32/92
 
 ### 🔴 Hard
 
-░░░░░░░░░░░░░░░░░░░░ 2/91
+░░░░░░░░░░░░░░░░░░░░ 2/92
 
 <!-- AUTO_PROGRESS_END -->
 
@@ -74,6 +74,7 @@ Loading...
 |---|---|---|---|
 | 3658 | [GCD of Odd and Even Sums](https://leetcode.com/problems/gcd-of-odd-and-even-sums) | 🟢 Easy | C++ |
 | 3536 | [Maximum Product of Two Digits](https://leetcode.com/problems/maximum-product-of-two-digits) | 🟢 Easy | C++ |
+| 3517 | [Smallest Palindromic Rearrangement I](https://leetcode.com/problems/smallest-palindromic-rearrangement-i) | 🟡 Medium | C++ |
 | 2878 | [Get the Size of a DataFrame](https://leetcode.com/problems/get-the-size-of-a-dataframe) | 🟢 Easy | Python |
 | 2235 | [Add Two Integers](https://leetcode.com/problems/add-two-integers) | 🟢 Easy | Java |
 | 2149 | [Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign) | 🟡 Medium | C++ |
@@ -81,7 +82,6 @@ Loading...
 | 2095 | [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list) | 🟡 Medium | C++ |
 | 2089 | [Find Target Indices After Sorting Array](https://leetcode.com/problems/find-target-indices-after-sorting-array) | 🟢 Easy | C++ |
 | 1910 | [Remove All Occurrences of a Substring](https://leetcode.com/problems/remove-all-occurrences-of-a-substring) | 🟡 Medium | C++ |
-| 1903 | [Largest Odd Number in String](https://leetcode.com/problems/largest-odd-number-in-string) | 🟢 Easy | C++ |
 <!-- AUTO_RECENT_END -->
 
 ---
@@ -99,7 +99,7 @@ Loading...
 <!-- AUTO_LANG_START -->
 | Language | Solutions |
 |---|---:|
-| C++ | 78 |
+| C++ | 79 |
 | Java | 8 |
 | SQL | 2 |
 | Unknown | 2 |
@@ -111,7 +111,7 @@ Loading...
 # 📅 Last Updated
 
 <!-- AUTO_DATE_START -->
-28 July 2026 • 13:45
+28 July 2026 • 14:35
 <!-- AUTO_DATE_END -->
 
 ---
