@@ -307,6 +307,7 @@ Every time I solve a new LeetCode problem:
 | [0263-ugly-number](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0441-arranging-coins) |
 | [0445-add-two-numbers-ii](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0445-add-two-numbers-ii) |
@@ -325,6 +326,7 @@ Every time I solve a new LeetCode problem:
 | [0231-power-of-two](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -386,6 +388,7 @@ Every time I solve a new LeetCode problem:
 | [0231-power-of-two](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0287-find-the-duplicate-number) |
+| [0342-power-of-four](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0389-find-the-difference) |
 ## Sliding Window
 |  |
