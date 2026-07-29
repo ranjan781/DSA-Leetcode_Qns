@@ -306,6 +306,7 @@ Every time I solve a new LeetCode problem:
 | [0258-add-digits](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0441-arranging-coins) |
 | [0445-add-two-numbers-ii](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0445-add-two-numbers-ii) |
@@ -323,6 +324,7 @@ Every time I solve a new LeetCode problem:
 | [0203-remove-linked-list-elements](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
