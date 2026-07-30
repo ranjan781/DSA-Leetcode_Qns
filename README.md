@@ -322,6 +322,7 @@ Every time I solve a new LeetCode problem:
 | [0728-self-dividing-numbers](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0728-self-dividing-numbers) |
 | [0989-add-to-array-form-of-integer](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0989-add-to-array-form-of-integer) |
 | [1025-divisor-game](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1025-divisor-game) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2235-add-two-integers](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/2235-add-two-integers) |
 | [3536-maximum-product-of-two-digits](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/3536-maximum-product-of-two-digits) |
 ## Recursion
@@ -397,6 +398,7 @@ Every time I solve a new LeetCode problem:
 | [0287-find-the-duplicate-number](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0389-find-the-difference) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Sliding Window
 |  |
 | ------- |
