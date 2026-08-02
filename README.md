@@ -193,6 +193,7 @@ Every time I solve a new LeetCode problem:
 | [0242-valid-anagram](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0389-find-the-difference) |
+| [0434-number-of-segments-in-a-string](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0434-number-of-segments-in-a-string) |
 | [0520-detect-capital](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0520-detect-capital) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
