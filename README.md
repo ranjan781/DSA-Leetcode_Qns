@@ -23,8 +23,8 @@
 <!-- AUTO_STATS_START -->
 | Metric | Value |
 |---|---:|
-| Total Solved | **112** |
-| 🟢 Easy | **73** |
+| Total Solved | **113** |
+| 🟢 Easy | **74** |
 | 🟡 Medium | **37** |
 | 🔴 Hard | **2** |
 
@@ -37,15 +37,15 @@
 <!-- AUTO_PROGRESS_START -->
 ### 🟢 Easy
 
-█████████████░░░░░░░ 73/112
+█████████████░░░░░░░ 74/113
 
 ### 🟡 Medium
 
-███████░░░░░░░░░░░░░ 37/112
+███████░░░░░░░░░░░░░ 37/113
 
 ### 🔴 Hard
 
-░░░░░░░░░░░░░░░░░░░░ 2/112
+░░░░░░░░░░░░░░░░░░░░ 2/113
 
 <!-- AUTO_PROGRESS_END -->
 
@@ -81,7 +81,7 @@ Loading...
 | 3014 | [Minimum Number of Pushes to Type Word I](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-i) | 🟢 Easy | C++ |
 | 2878 | [Get the Size of a DataFrame](https://leetcode.com/problems/get-the-size-of-a-dataframe) | 🟢 Easy | Python |
 | 2235 | [Add Two Integers](https://leetcode.com/problems/add-two-integers) | 🟢 Easy | Java |
-| 2149 | [Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign) | 🟡 Medium | C++ |
+| 2215 | [Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays) | 🟢 Easy | C++ |
 <!-- AUTO_RECENT_END -->
 
 ---
@@ -99,7 +99,7 @@ Loading...
 <!-- AUTO_LANG_START -->
 | Language | Solutions |
 |---|---:|
-| C++ | 99 |
+| C++ | 100 |
 | Java | 8 |
 | Postgresql | 2 |
 | Unknown | 2 |
@@ -111,7 +111,7 @@ Loading...
 # 📅 Last Updated
 
 <!-- AUTO_DATE_START -->
-02 August 2026 • 11:47
+03 August 2026 • 13:18
 <!-- AUTO_DATE_END -->
 
 ---
