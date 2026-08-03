@@ -174,6 +174,7 @@ Every time I solve a new LeetCode problem:
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1331-rank-transform-of-an-array](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1331-rank-transform-of-an-array) |
+| [1406-stone-game-iii](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1406-stone-game-iii) |
 | [1470-shuffle-the-array](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -285,6 +286,7 @@ Every time I solve a new LeetCode problem:
 | [0907-sum-of-subarray-minimums](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0907-sum-of-subarray-minimums) |
 | [1025-divisor-game](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1137-n-th-tribonacci-number) |
+| [1406-stone-game-iii](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1406-stone-game-iii) |
 ## Binary Search
 |  |
 | ------- |
@@ -344,6 +346,7 @@ Every time I solve a new LeetCode problem:
 | [1025-divisor-game](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1137-n-th-tribonacci-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1406-stone-game-iii](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1406-stone-game-iii) |
 | [2235-add-two-integers](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/2235-add-two-integers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/3536-maximum-product-of-two-digits) |
@@ -462,6 +465,7 @@ Every time I solve a new LeetCode problem:
 | ------- |
 | [0486-predict-the-winner](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0486-predict-the-winner) |
 | [1025-divisor-game](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1025-divisor-game) |
+| [1406-stone-game-iii](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1406-stone-game-iii) |
 ## Counting Sort
 |  |
 | ------- |
@@ -470,4 +474,12 @@ Every time I solve a new LeetCode problem:
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0039-combination-sum) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
