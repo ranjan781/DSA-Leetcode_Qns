@@ -23,8 +23,8 @@
 <!-- AUTO_STATS_START -->
 | Metric | Value |
 |---|---:|
-| Total Solved | **115** |
-| 🟢 Easy | **75** |
+| Total Solved | **116** |
+| 🟢 Easy | **76** |
 | 🟡 Medium | **37** |
 | 🔴 Hard | **3** |
 
@@ -37,15 +37,15 @@
 <!-- AUTO_PROGRESS_START -->
 ### 🟢 Easy
 
-█████████████░░░░░░░ 75/115
+█████████████░░░░░░░ 76/116
 
 ### 🟡 Medium
 
-██████░░░░░░░░░░░░░░ 37/115
+██████░░░░░░░░░░░░░░ 37/116
 
 ### 🔴 Hard
 
-█░░░░░░░░░░░░░░░░░░░ 3/115
+█░░░░░░░░░░░░░░░░░░░ 3/116
 
 <!-- AUTO_PROGRESS_END -->
 
@@ -74,6 +74,7 @@ Loading...
 |---|---|---|---|
 | 3992 | [Rearrange String to Avoid Character Pair](https://leetcode.com/problems/rearrange-string-to-avoid-character-pair) | 🟢 Easy | C++ |
 | 3754 | [Concatenate Non-Zero Digits and Multiply by Sum I](https://leetcode.com/problems/concatenate-non-zero-digits-and-multiply-by-sum-i) | 🟢 Easy | C++ |
+| 3731 | [Find Missing Elements](https://leetcode.com/problems/find-missing-elements) | 🟢 Easy | C++ |
 | 3658 | [GCD of Odd and Even Sums](https://leetcode.com/problems/gcd-of-odd-and-even-sums) | 🟢 Easy | C++ |
 | 3536 | [Maximum Product of Two Digits](https://leetcode.com/problems/maximum-product-of-two-digits) | 🟢 Easy | C++ |
 | 3517 | [Smallest Palindromic Rearrangement I](https://leetcode.com/problems/smallest-palindromic-rearrangement-i) | 🟡 Medium | C++ |
@@ -81,7 +82,6 @@ Loading...
 | 3014 | [Minimum Number of Pushes to Type Word I](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-i) | 🟢 Easy | C++ |
 | 2878 | [Get the Size of a DataFrame](https://leetcode.com/problems/get-the-size-of-a-dataframe) | 🟢 Easy | Python |
 | 2235 | [Add Two Integers](https://leetcode.com/problems/add-two-integers) | 🟢 Easy | Java |
-| 2215 | [Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays) | 🟢 Easy | C++ |
 <!-- AUTO_RECENT_END -->
 
 ---
@@ -99,7 +99,7 @@ Loading...
 <!-- AUTO_LANG_START -->
 | Language | Solutions |
 |---|---:|
-| C++ | 102 |
+| C++ | 103 |
 | Java | 8 |
 | Postgresql | 2 |
 | Unknown | 2 |
@@ -111,7 +111,7 @@ Loading...
 # 📅 Last Updated
 
 <!-- AUTO_DATE_START -->
-03 August 2026 • 16:49
+04 August 2026 • 08:10
 <!-- AUTO_DATE_END -->
 
 ---
