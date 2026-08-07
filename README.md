@@ -23,8 +23,8 @@
 <!-- AUTO_STATS_START -->
 | Metric | Value |
 |---|---:|
-| Total Solved | **120** |
-| 🟢 Easy | **79** |
+| Total Solved | **121** |
+| 🟢 Easy | **80** |
 | 🟡 Medium | **38** |
 | 🔴 Hard | **3** |
 
@@ -37,15 +37,15 @@
 <!-- AUTO_PROGRESS_START -->
 ### 🟢 Easy
 
-█████████████░░░░░░░ 79/120
+█████████████░░░░░░░ 80/121
 
 ### 🟡 Medium
 
-██████░░░░░░░░░░░░░░ 38/120
+██████░░░░░░░░░░░░░░ 38/121
 
 ### 🔴 Hard
 
-░░░░░░░░░░░░░░░░░░░░ 3/120
+░░░░░░░░░░░░░░░░░░░░ 3/121
 
 <!-- AUTO_PROGRESS_END -->
 
@@ -81,7 +81,7 @@ Loading...
 | 3016 | [Minimum Number of Pushes to Type Word II](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii) | 🟡 Medium | C++ |
 | 3014 | [Minimum Number of Pushes to Type Word I](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-i) | 🟢 Easy | C++ |
 | 2878 | [Get the Size of a DataFrame](https://leetcode.com/problems/get-the-size-of-a-dataframe) | 🟢 Easy | Python |
-| 2235 | [Add Two Integers](https://leetcode.com/problems/add-two-integers) | 🟢 Easy | Java |
+| 3005 | [Count Elements With Maximum Frequency](https://leetcode.com/problems/count-elements-with-maximum-frequency) | 🟢 Easy | Unknown |
 <!-- AUTO_RECENT_END -->
 
 ---
@@ -99,10 +99,10 @@ Loading...
 <!-- AUTO_LANG_START -->
 | Language | Solutions |
 |---|---:|
-| C++ | 106 |
-| Java | 9 |
+| C++ | 107 |
+| Java | 8 |
+| Unknown | 3 |
 | Postgresql | 2 |
-| Unknown | 2 |
 | Python | 1 |
 <!-- AUTO_LANG_END -->
 
@@ -111,7 +111,7 @@ Loading...
 # 📅 Last Updated
 
 <!-- AUTO_DATE_START -->
-07 August 2026 • 14:37
+07 August 2026 • 14:57
 <!-- AUTO_DATE_END -->
 
 ---
