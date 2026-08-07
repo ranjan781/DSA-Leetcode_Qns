@@ -246,6 +246,7 @@ Every time I solve a new LeetCode problem:
 | [0977-squares-of-a-sorted-array](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0977-squares-of-a-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1331-rank-transform-of-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/3536-maximum-product-of-two-digits) |
@@ -355,6 +356,7 @@ Every time I solve a new LeetCode problem:
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1406-stone-game-iii](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1406-stone-game-iii) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2235-add-two-integers](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/2235-add-two-integers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/3536-maximum-product-of-two-digits) |
@@ -381,6 +383,7 @@ Every time I solve a new LeetCode problem:
 | [0410-split-array-largest-sum](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0455-assign-cookies) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Stack
