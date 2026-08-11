@@ -23,8 +23,8 @@
 <!-- AUTO_STATS_START -->
 | Metric | Value |
 |---|---:|
-| Total Solved | **124** |
-| 🟢 Easy | **82** |
+| Total Solved | **125** |
+| 🟢 Easy | **83** |
 | 🟡 Medium | **38** |
 | 🔴 Hard | **4** |
 
@@ -37,15 +37,15 @@
 <!-- AUTO_PROGRESS_START -->
 ### 🟢 Easy
 
-█████████████░░░░░░░ 82/124
+█████████████░░░░░░░ 83/125
 
 ### 🟡 Medium
 
-██████░░░░░░░░░░░░░░ 38/124
+██████░░░░░░░░░░░░░░ 38/125
 
 ### 🔴 Hard
 
-█░░░░░░░░░░░░░░░░░░░ 4/124
+█░░░░░░░░░░░░░░░░░░░ 4/125
 
 <!-- AUTO_PROGRESS_END -->
 
@@ -81,7 +81,7 @@ Loading...
 | 3016 | [Minimum Number of Pushes to Type Word II](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii) | 🟡 Medium | C++ |
 | 3014 | [Minimum Number of Pushes to Type Word I](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-i) | 🟢 Easy | C++ |
 | 3005 | [Count Elements With Maximum Frequency](https://leetcode.com/problems/count-elements-with-maximum-frequency) | 🟢 Easy | C++ |
-| 2878 | [Get the Size of a DataFrame](https://leetcode.com/problems/get-the-size-of-a-dataframe) | 🟢 Easy | Python |
+| 2996 | [Smallest Missing Integer Greater Than Sequential Prefix Sum](https://leetcode.com/problems/smallest-missing-integer-greater-than-sequential-prefix-sum) | 🟢 Easy | C++ |
 <!-- AUTO_RECENT_END -->
 
 ---
@@ -99,7 +99,7 @@ Loading...
 <!-- AUTO_LANG_START -->
 | Language | Solutions |
 |---|---:|
-| C++ | 111 |
+| C++ | 112 |
 | Java | 8 |
 | Postgresql | 2 |
 | Unknown | 2 |
@@ -111,7 +111,7 @@ Loading...
 # 📅 Last Updated
 
 <!-- AUTO_DATE_START -->
-10 August 2026 • 15:37
+11 August 2026 • 15:28
 <!-- AUTO_DATE_END -->
 
 ---
