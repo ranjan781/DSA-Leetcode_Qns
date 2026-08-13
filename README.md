@@ -210,6 +210,7 @@ Every time I solve a new LeetCode problem:
 | [2716-minimize-string-length](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/2716-minimize-string-length) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3174-clear-digits](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/3174-clear-digits) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Trie
 |  |
@@ -416,6 +417,7 @@ Every time I solve a new LeetCode problem:
 | [0496-next-greater-element-i](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0907-sum-of-subarray-minimums) |
+| [3174-clear-digits](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/3174-clear-digits) |
 ## Design
 |  |
 | ------- |
@@ -475,6 +477,7 @@ Every time I solve a new LeetCode problem:
 | [0412-fizz-buzz](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0412-fizz-buzz) |
 | [1929-concatenation-of-array](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3174-clear-digits](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/3174-clear-digits) |
 ## Number Theory
 |  |
 | ------- |
