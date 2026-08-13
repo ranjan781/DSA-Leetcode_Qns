@@ -145,6 +145,7 @@ Every time I solve a new LeetCode problem:
 | [0041-first-missing-positive](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -303,6 +304,7 @@ Every time I solve a new LeetCode problem:
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0055-jump-game) |
 | [0410-split-array-largest-sum](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0410-split-array-largest-sum) |
 | [0486-predict-the-winner](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0509-fibonacci-number) |
@@ -397,6 +399,7 @@ Every time I solve a new LeetCode problem:
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0055-jump-game) |
 | [0410-split-array-largest-sum](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0455-assign-cookies) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
