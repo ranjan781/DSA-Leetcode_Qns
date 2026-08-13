@@ -23,8 +23,8 @@
 <!-- AUTO_STATS_START -->
 | Metric | Value |
 |---|---:|
-| Total Solved | **131** |
-| 🟢 Easy | **85** |
+| Total Solved | **132** |
+| 🟢 Easy | **86** |
 | 🟡 Medium | **42** |
 | 🔴 Hard | **4** |
 
@@ -37,15 +37,15 @@
 <!-- AUTO_PROGRESS_START -->
 ### 🟢 Easy
 
-█████████████░░░░░░░ 85/131
+█████████████░░░░░░░ 86/132
 
 ### 🟡 Medium
 
-██████░░░░░░░░░░░░░░ 42/131
+██████░░░░░░░░░░░░░░ 42/132
 
 ### 🔴 Hard
 
-█░░░░░░░░░░░░░░░░░░░ 4/131
+█░░░░░░░░░░░░░░░░░░░ 4/132
 
 <!-- AUTO_PROGRESS_END -->
 
@@ -78,10 +78,10 @@ Loading...
 | 3658 | [GCD of Odd and Even Sums](https://leetcode.com/problems/gcd-of-odd-and-even-sums) | 🟢 Easy | C++ |
 | 3536 | [Maximum Product of Two Digits](https://leetcode.com/problems/maximum-product-of-two-digits) | 🟢 Easy | C++ |
 | 3517 | [Smallest Palindromic Rearrangement I](https://leetcode.com/problems/smallest-palindromic-rearrangement-i) | 🟡 Medium | C++ |
+| 3174 | [Clear Digits](https://leetcode.com/problems/clear-digits/solutions/) | 🟢 Easy | C++ |
 | 3016 | [Minimum Number of Pushes to Type Word II](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii) | 🟡 Medium | C++ |
 | 3014 | [Minimum Number of Pushes to Type Word I](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-i) | 🟢 Easy | C++ |
 | 3005 | [Count Elements With Maximum Frequency](https://leetcode.com/problems/count-elements-with-maximum-frequency) | 🟢 Easy | C++ |
-| 2996 | [Smallest Missing Integer Greater Than Sequential Prefix Sum](https://leetcode.com/problems/smallest-missing-integer-greater-than-sequential-prefix-sum) | 🟢 Easy | C++ |
 <!-- AUTO_RECENT_END -->
 
 ---
@@ -99,8 +99,8 @@ Loading...
 <!-- AUTO_LANG_START -->
 | Language | Solutions |
 |---|---:|
-| C++ | 115 |
-| Java | 9 |
+| C++ | 117 |
+| Java | 8 |
 | Unknown | 4 |
 | Postgresql | 2 |
 | Python | 1 |
@@ -111,7 +111,7 @@ Loading...
 # 📅 Last Updated
 
 <!-- AUTO_DATE_START -->
-13 August 2026 • 16:34
+13 August 2026 • 16:53
 <!-- AUTO_DATE_END -->
 
 ---
