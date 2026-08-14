@@ -136,6 +136,7 @@ Every time I solve a new LeetCode problem:
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0014-longest-common-prefix) |
+| [0018-4sum](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0033-search-in-rotated-sorted-array) |
@@ -248,6 +249,7 @@ Every time I solve a new LeetCode problem:
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0169-majority-element) |
@@ -272,6 +274,7 @@ Every time I solve a new LeetCode problem:
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0031-next-permutation) |
