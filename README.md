@@ -23,8 +23,8 @@
 <!-- AUTO_STATS_START -->
 | Metric | Value |
 |---|---:|
-| Total Solved | **133** |
-| 🟢 Easy | **86** |
+| Total Solved | **134** |
+| 🟢 Easy | **87** |
 | 🟡 Medium | **43** |
 | 🔴 Hard | **4** |
 
@@ -37,15 +37,15 @@
 <!-- AUTO_PROGRESS_START -->
 ### 🟢 Easy
 
-█████████████░░░░░░░ 86/133
+█████████████░░░░░░░ 87/134
 
 ### 🟡 Medium
 
-██████░░░░░░░░░░░░░░ 43/133
+██████░░░░░░░░░░░░░░ 43/134
 
 ### 🔴 Hard
 
-█░░░░░░░░░░░░░░░░░░░ 4/133
+█░░░░░░░░░░░░░░░░░░░ 4/134
 
 <!-- AUTO_PROGRESS_END -->
 
@@ -78,10 +78,10 @@ Loading...
 | 3658 | [GCD of Odd and Even Sums](https://leetcode.com/problems/gcd-of-odd-and-even-sums) | 🟢 Easy | C++ |
 | 3536 | [Maximum Product of Two Digits](https://leetcode.com/problems/maximum-product-of-two-digits) | 🟢 Easy | C++ |
 | 3517 | [Smallest Palindromic Rearrangement I](https://leetcode.com/problems/smallest-palindromic-rearrangement-i) | 🟡 Medium | C++ |
+| 3340 | [Check Balanced String](https://leetcode.com/problems/check-balanced-string) | 🟢 Easy | C++ |
 | 3174 | [Clear Digits](https://leetcode.com/problems/clear-digits/solutions/) | 🟢 Easy | C++ |
 | 3016 | [Minimum Number of Pushes to Type Word II](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii) | 🟡 Medium | C++ |
 | 3014 | [Minimum Number of Pushes to Type Word I](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-i) | 🟢 Easy | C++ |
-| 3005 | [Count Elements With Maximum Frequency](https://leetcode.com/problems/count-elements-with-maximum-frequency) | 🟢 Easy | C++ |
 <!-- AUTO_RECENT_END -->
 
 ---
@@ -99,7 +99,7 @@ Loading...
 <!-- AUTO_LANG_START -->
 | Language | Solutions |
 |---|---:|
-| C++ | 117 |
+| C++ | 118 |
 | Java | 9 |
 | Unknown | 4 |
 | Postgresql | 2 |
@@ -111,7 +111,7 @@ Loading...
 # 📅 Last Updated
 
 <!-- AUTO_DATE_START -->
-13 August 2026 • 17:20
+14 August 2026 • 15:38
 <!-- AUTO_DATE_END -->
 
 ---
