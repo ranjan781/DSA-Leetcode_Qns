@@ -178,6 +178,7 @@ Every time I solve a new LeetCode problem:
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1331-rank-transform-of-an-array](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1331-rank-transform-of-an-array) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1406-stone-game-iii](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1406-stone-game-iii) |
 | [1470-shuffle-the-array](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1480-running-sum-of-1d-array) |
@@ -471,6 +472,7 @@ Every time I solve a new LeetCode problem:
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0219-contains-duplicate-ii) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Interactive
 |  |
