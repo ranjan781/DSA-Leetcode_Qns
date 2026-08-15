@@ -23,8 +23,8 @@
 <!-- AUTO_STATS_START -->
 | Metric | Value |
 |---|---:|
-| Total Solved | **136** |
-| 🟢 Easy | **87** |
+| Total Solved | **137** |
+| 🟢 Easy | **88** |
 | 🟡 Medium | **45** |
 | 🔴 Hard | **4** |
 
@@ -37,15 +37,15 @@
 <!-- AUTO_PROGRESS_START -->
 ### 🟢 Easy
 
-█████████████░░░░░░░ 87/136
+█████████████░░░░░░░ 88/137
 
 ### 🟡 Medium
 
-███████░░░░░░░░░░░░░ 45/136
+███████░░░░░░░░░░░░░ 45/137
 
 ### 🔴 Hard
 
-█░░░░░░░░░░░░░░░░░░░ 4/136
+█░░░░░░░░░░░░░░░░░░░ 4/137
 
 <!-- AUTO_PROGRESS_END -->
 
@@ -80,8 +80,8 @@ Loading...
 | 3517 | [Smallest Palindromic Rearrangement I](https://leetcode.com/problems/smallest-palindromic-rearrangement-i) | 🟡 Medium | C++ |
 | 3340 | [Check Balanced String](https://leetcode.com/problems/check-balanced-string) | 🟢 Easy | C++ |
 | 3174 | [Clear Digits](https://leetcode.com/problems/clear-digits/solutions/) | 🟢 Easy | C++ |
+| 3090 | [Maximum Length Substring With Two Occurrences](https://leetcode.com/problems/maximum-length-substring-with-two-occurrences) | 🟢 Easy | C++ |
 | 3016 | [Minimum Number of Pushes to Type Word II](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii) | 🟡 Medium | C++ |
-| 3014 | [Minimum Number of Pushes to Type Word I](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-i) | 🟢 Easy | C++ |
 <!-- AUTO_RECENT_END -->
 
 ---
@@ -99,7 +99,7 @@ Loading...
 <!-- AUTO_LANG_START -->
 | Language | Solutions |
 |---|---:|
-| C++ | 120 |
+| C++ | 121 |
 | Java | 9 |
 | Unknown | 4 |
 | Postgresql | 2 |
@@ -111,7 +111,7 @@ Loading...
 # 📅 Last Updated
 
 <!-- AUTO_DATE_START -->
-14 August 2026 • 18:14
+15 August 2026 • 16:09
 <!-- AUTO_DATE_END -->
 
 ---
