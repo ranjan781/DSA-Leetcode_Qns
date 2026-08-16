@@ -169,6 +169,7 @@ Every time I solve a new LeetCode problem:
 | [0503-next-greater-element-ii](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0628-maximum-product-of-three-numbers) |
+| [0706-design-hashmap](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0706-design-hashmap) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0875-koko-eating-bananas) |
 | [0907-sum-of-subarray-minimums](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0907-sum-of-subarray-minimums) |
@@ -239,6 +240,7 @@ Every time I solve a new LeetCode problem:
 | [0389-find-the-difference](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0496-next-greater-element-i) |
+| [0706-design-hashmap](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0706-design-hashmap) |
 | [1331-rank-transform-of-an-array](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1331-rank-transform-of-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1748-sum-of-unique-elements](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1748-sum-of-unique-elements) |
@@ -434,6 +436,7 @@ Every time I solve a new LeetCode problem:
 | [0155-min-stack](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0232-implement-queue-using-stacks) |
+| [0706-design-hashmap](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0706-design-hashmap) |
 ## Queue
 |  |
 | ------- |
@@ -459,6 +462,7 @@ Every time I solve a new LeetCode problem:
 | [0237-delete-node-in-a-linked-list](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0328-odd-even-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0445-add-two-numbers-ii) |
+| [0706-design-hashmap](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0706-design-hashmap) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Bit Manipulation
 |  |
@@ -532,4 +536,8 @@ Every time I solve a new LeetCode problem:
 |  |
 | ------- |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1913-maximum-product-difference-between-two-pairs) |
+## Hash Function
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
