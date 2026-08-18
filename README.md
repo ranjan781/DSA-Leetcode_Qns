@@ -157,6 +157,7 @@ Every time I solve a new LeetCode problem:
 | [0217-contains-duplicate](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0228-summary-ranges) |
+| [0229-majority-element-ii](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0410-split-array-largest-sum) |
@@ -234,6 +235,7 @@ Every time I solve a new LeetCode problem:
 | [0205-isomorphic-strings](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0387-first-unique-character-in-a-string) |
@@ -259,6 +261,7 @@ Every time I solve a new LeetCode problem:
 | [0148-sort-list](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0389-find-the-difference) |
@@ -305,6 +308,7 @@ Every time I solve a new LeetCode problem:
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0387-first-unique-character-in-a-string) |
 | [1748-sum-of-unique-elements](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1748-sum-of-unique-elements) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -540,4 +544,8 @@ Every time I solve a new LeetCode problem:
 |  |
 | ------- |
 | [0706-design-hashmap](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0706-design-hashmap) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
