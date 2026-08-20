@@ -214,6 +214,7 @@ Every time I solve a new LeetCode problem:
 | [0389-find-the-difference](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0412-fizz-buzz) |
 | [0434-number-of-segments-in-a-string](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0434-number-of-segments-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0451-sort-characters-by-frequency) |
 | [0520-detect-capital](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0520-detect-capital) |
 | [0567-permutation-in-string](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0567-permutation-in-string) |
 | [2716-minimize-string-length](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/2716-minimize-string-length) |
@@ -246,6 +247,7 @@ Every time I solve a new LeetCode problem:
 | [0389-find-the-difference](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0451-sort-characters-by-frequency](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0567-permutation-in-string) |
 | [0645-set-mismatch](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0645-set-mismatch) |
@@ -275,6 +277,7 @@ Every time I solve a new LeetCode problem:
 | [0389-find-the-difference](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0451-sort-characters-by-frequency](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0645-set-mismatch) |
@@ -321,6 +324,7 @@ Every time I solve a new LeetCode problem:
 | [0169-majority-element](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0387-first-unique-character-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0451-sort-characters-by-frequency) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1748-sum-of-unique-elements](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1748-sum-of-unique-elements) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -562,4 +566,12 @@ Every time I solve a new LeetCode problem:
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0229-majority-element-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
