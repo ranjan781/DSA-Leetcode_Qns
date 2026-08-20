@@ -154,6 +154,7 @@ Every time I solve a new LeetCode problem:
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0228-summary-ranges) |
@@ -273,6 +274,7 @@ Every time I solve a new LeetCode problem:
 | [0075-sort-colors](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0242-valid-anagram) |
@@ -322,6 +324,7 @@ Every time I solve a new LeetCode problem:
 | [0053-maximum-subarray](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0215-kth-largest-element-in-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -573,9 +576,14 @@ Every time I solve a new LeetCode problem:
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0215-kth-largest-element-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0451-sort-characters-by-frequency) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0451-sort-characters-by-frequency) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
