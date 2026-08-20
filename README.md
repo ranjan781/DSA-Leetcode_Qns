@@ -215,6 +215,7 @@ Every time I solve a new LeetCode problem:
 | [0412-fizz-buzz](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0412-fizz-buzz) |
 | [0434-number-of-segments-in-a-string](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0434-number-of-segments-in-a-string) |
 | [0520-detect-capital](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0520-detect-capital) |
+| [0567-permutation-in-string](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0567-permutation-in-string) |
 | [2716-minimize-string-length](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/2716-minimize-string-length) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -246,6 +247,7 @@ Every time I solve a new LeetCode problem:
 | [0442-find-all-duplicates-in-an-array](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0496-next-greater-element-i) |
+| [0567-permutation-in-string](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0567-permutation-in-string) |
 | [0645-set-mismatch](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0645-set-mismatch) |
 | [0706-design-hashmap](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0706-design-hashmap) |
 | [1331-rank-transform-of-an-array](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1331-rank-transform-of-an-array) |
@@ -303,6 +305,7 @@ Every time I solve a new LeetCode problem:
 | [0234-palindrome-linked-list](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0455-assign-cookies) |
+| [0567-permutation-in-string](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0567-permutation-in-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0977-squares-of-a-sorted-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -492,6 +495,7 @@ Every time I solve a new LeetCode problem:
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0219-contains-duplicate-ii) |
+| [0567-permutation-in-string](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0567-permutation-in-string) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/3090-maximum-length-substring-with-two-occurrences) |
