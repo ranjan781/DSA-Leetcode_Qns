@@ -200,6 +200,7 @@ Every time I solve a new LeetCode problem:
 | [2149-rearrange-array-elements-by-sign](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2418-sort-the-people](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/2418-sort-the-people) |
+| [2574-left-and-right-sum-differences](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/2574-left-and-right-sum-differences) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -382,6 +383,7 @@ Every time I solve a new LeetCode problem:
 | [0724-find-pivot-index](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1480-running-sum-of-1d-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1991-find-the-middle-index-in-array) |
+| [2574-left-and-right-sum-differences](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/2574-left-and-right-sum-differences) |
 ## Database
 |  |
 | ------- |
