@@ -195,6 +195,7 @@ Every time I solve a new LeetCode problem:
 | [1748-sum-of-unique-elements](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1748-sum-of-unique-elements) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1929-concatenation-of-array](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1929-concatenation-of-array) |
+| [1991-find-the-middle-index-in-array](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1991-find-the-middle-index-in-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -380,6 +381,7 @@ Every time I solve a new LeetCode problem:
 | [0410-split-array-largest-sum](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0410-split-array-largest-sum) |
 | [0724-find-pivot-index](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1480-running-sum-of-1d-array) |
+| [1991-find-the-middle-index-in-array](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1991-find-the-middle-index-in-array) |
 ## Database
 |  |
 | ------- |
