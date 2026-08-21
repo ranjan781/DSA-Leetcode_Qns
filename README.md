@@ -174,6 +174,7 @@ Every time I solve a new LeetCode problem:
 | [0628-maximum-product-of-three-numbers](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0645-set-mismatch) |
 | [0706-design-hashmap](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0706-design-hashmap) |
+| [0724-find-pivot-index](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0875-koko-eating-bananas) |
 | [0907-sum-of-subarray-minimums](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0907-sum-of-subarray-minimums) |
@@ -377,6 +378,7 @@ Every time I solve a new LeetCode problem:
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0410-split-array-largest-sum) |
+| [0724-find-pivot-index](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1480-running-sum-of-1d-array) |
 ## Database
 |  |
