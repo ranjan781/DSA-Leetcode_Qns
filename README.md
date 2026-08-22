@@ -23,8 +23,8 @@
 <!-- AUTO_STATS_START -->
 | Metric | Value |
 |---|---:|
-| Total Solved | **151** |
-| 🟢 Easy | **97** |
+| Total Solved | **152** |
+| 🟢 Easy | **98** |
 | 🟡 Medium | **50** |
 | 🔴 Hard | **4** |
 
@@ -37,15 +37,15 @@
 <!-- AUTO_PROGRESS_START -->
 ### 🟢 Easy
 
-█████████████░░░░░░░ 97/151
+█████████████░░░░░░░ 98/152
 
 ### 🟡 Medium
 
-███████░░░░░░░░░░░░░ 50/151
+███████░░░░░░░░░░░░░ 50/152
 
 ### 🔴 Hard
 
-█░░░░░░░░░░░░░░░░░░░ 4/151
+█░░░░░░░░░░░░░░░░░░░ 4/152
 
 <!-- AUTO_PROGRESS_END -->
 
@@ -76,12 +76,12 @@ Loading...
 | 3754 | [Concatenate Non-Zero Digits and Multiply by Sum I](https://leetcode.com/problems/concatenate-non-zero-digits-and-multiply-by-sum-i) | 🟢 Easy | C++ |
 | 3731 | [Find Missing Elements](https://leetcode.com/problems/find-missing-elements) | 🟢 Easy | C++ |
 | 3658 | [GCD of Odd and Even Sums](https://leetcode.com/problems/gcd-of-odd-and-even-sums) | 🟢 Easy | C++ |
+| 3622 | [Check Divisibility by Digit Sum and Product](https://leetcode.com/problems/check-divisibility-by-digit-sum-and-product) | 🟢 Easy | C++ |
 | 3536 | [Maximum Product of Two Digits](https://leetcode.com/problems/maximum-product-of-two-digits) | 🟢 Easy | C++ |
 | 3517 | [Smallest Palindromic Rearrangement I](https://leetcode.com/problems/smallest-palindromic-rearrangement-i) | 🟡 Medium | C++ |
 | 3340 | [Check Balanced String](https://leetcode.com/problems/check-balanced-string) | 🟢 Easy | C++ |
 | 3174 | [Clear Digits](https://leetcode.com/problems/clear-digits/solutions/) | 🟢 Easy | C++ |
 | 3090 | [Maximum Length Substring With Two Occurrences](https://leetcode.com/problems/maximum-length-substring-with-two-occurrences) | 🟢 Easy | C++ |
-| 3069 | [Distribute Elements Into Two Arrays I](https://leetcode.com/problems/distribute-elements-into-two-arrays-i) | 🟢 Easy | C++ |
 <!-- AUTO_RECENT_END -->
 
 ---
@@ -99,7 +99,7 @@ Loading...
 <!-- AUTO_LANG_START -->
 | Language | Solutions |
 |---|---:|
-| C++ | 134 |
+| C++ | 135 |
 | Java | 9 |
 | Unknown | 5 |
 | Postgresql | 2 |
@@ -111,7 +111,7 @@ Loading...
 # 📅 Last Updated
 
 <!-- AUTO_DATE_START -->
-21 August 2026 • 16:08
+22 August 2026 • 04:40
 <!-- AUTO_DATE_END -->
 
 ---
