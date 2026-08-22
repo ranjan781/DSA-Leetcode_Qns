@@ -153,6 +153,7 @@ Every time I solve a new LeetCode problem:
 | [0150-evaluate-reverse-polish-notation](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0217-contains-duplicate) |
@@ -314,6 +315,7 @@ Every time I solve a new LeetCode problem:
 | [0075-sort-colors](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0160-intersection-of-two-linked-lists) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0287-find-the-duplicate-number) |
@@ -361,6 +363,7 @@ Every time I solve a new LeetCode problem:
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0287-find-the-duplicate-number) |
