@@ -23,8 +23,8 @@
 <!-- AUTO_STATS_START -->
 | Metric | Value |
 |---|---:|
-| Total Solved | **154** |
-| 🟢 Easy | **99** |
+| Total Solved | **155** |
+| 🟢 Easy | **100** |
 | 🟡 Medium | **51** |
 | 🔴 Hard | **4** |
 
@@ -37,15 +37,15 @@
 <!-- AUTO_PROGRESS_START -->
 ### 🟢 Easy
 
-█████████████░░░░░░░ 99/154
+█████████████░░░░░░░ 100/155
 
 ### 🟡 Medium
 
-███████░░░░░░░░░░░░░ 51/154
+███████░░░░░░░░░░░░░ 51/155
 
 ### 🔴 Hard
 
-█░░░░░░░░░░░░░░░░░░░ 4/154
+█░░░░░░░░░░░░░░░░░░░ 4/155
 
 <!-- AUTO_PROGRESS_END -->
 
@@ -72,6 +72,7 @@ Loading...
 <!-- AUTO_RECENT_START -->
 | # | Problem | Difficulty | Language |
 |---|---|---|---|
+| 4030 | [Check ASCII Palindromic](https://leetcode.com/problems/check-ascii-palindromic) | 🟢 Easy | C++ |
 | 3992 | [Rearrange String to Avoid Character Pair](https://leetcode.com/problems/rearrange-string-to-avoid-character-pair) | 🟢 Easy | C++ |
 | 3754 | [Concatenate Non-Zero Digits and Multiply by Sum I](https://leetcode.com/problems/concatenate-non-zero-digits-and-multiply-by-sum-i) | 🟢 Easy | C++ |
 | 3731 | [Find Missing Elements](https://leetcode.com/problems/find-missing-elements) | 🟢 Easy | C++ |
@@ -81,7 +82,6 @@ Loading...
 | 3517 | [Smallest Palindromic Rearrangement I](https://leetcode.com/problems/smallest-palindromic-rearrangement-i) | 🟡 Medium | C++ |
 | 3340 | [Check Balanced String](https://leetcode.com/problems/check-balanced-string) | 🟢 Easy | C++ |
 | 3174 | [Clear Digits](https://leetcode.com/problems/clear-digits/solutions/) | 🟢 Easy | C++ |
-| 3090 | [Maximum Length Substring With Two Occurrences](https://leetcode.com/problems/maximum-length-substring-with-two-occurrences) | 🟢 Easy | C++ |
 <!-- AUTO_RECENT_END -->
 
 ---
@@ -99,7 +99,7 @@ Loading...
 <!-- AUTO_LANG_START -->
 | Language | Solutions |
 |---|---:|
-| C++ | 137 |
+| C++ | 138 |
 | Java | 9 |
 | Unknown | 5 |
 | Postgresql | 2 |
@@ -111,7 +111,7 @@ Loading...
 # 📅 Last Updated
 
 <!-- AUTO_DATE_START -->
-22 August 2026 • 06:01
+23 August 2026 • 15:14
 <!-- AUTO_DATE_END -->
 
 ---
