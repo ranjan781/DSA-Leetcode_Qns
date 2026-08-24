@@ -317,6 +317,7 @@ Every time I solve a new LeetCode problem:
 | [0042-trapping-rain-water](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0075-sort-colors) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0148-sort-list](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -501,6 +502,7 @@ Every time I solve a new LeetCode problem:
 | ------- |
 | [0002-add-two-numbers](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0002-add-two-numbers) |
 | [0061-rotate-list](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0061-rotate-list) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0148-sort-list](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0203-remove-linked-list-elements) |
