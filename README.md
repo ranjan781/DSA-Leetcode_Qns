@@ -23,9 +23,9 @@
 <!-- AUTO_STATS_START -->
 | Metric | Value |
 |---|---:|
-| Total Solved | **171** |
+| Total Solved | **172** |
 | 🟢 Easy | **110** |
-| 🟡 Medium | **57** |
+| 🟡 Medium | **58** |
 | 🔴 Hard | **4** |
 
 <!-- AUTO_STATS_END -->
@@ -37,15 +37,15 @@
 <!-- AUTO_PROGRESS_START -->
 ### 🟢 Easy
 
-█████████████░░░░░░░ 110/171
+█████████████░░░░░░░ 110/172
 
 ### 🟡 Medium
 
-███████░░░░░░░░░░░░░ 57/171
+███████░░░░░░░░░░░░░ 58/172
 
 ### 🔴 Hard
 
-░░░░░░░░░░░░░░░░░░░░ 4/171
+░░░░░░░░░░░░░░░░░░░░ 4/172
 
 <!-- AUTO_PROGRESS_END -->
 
@@ -76,12 +76,12 @@ Loading...
 | 3992 | [Rearrange String to Avoid Character Pair](https://leetcode.com/problems/rearrange-string-to-avoid-character-pair) | 🟢 Easy | C++ |
 | 3754 | [Concatenate Non-Zero Digits and Multiply by Sum I](https://leetcode.com/problems/concatenate-non-zero-digits-and-multiply-by-sum-i) | 🟢 Easy | C++ |
 | 3731 | [Find Missing Elements](https://leetcode.com/problems/find-missing-elements) | 🟢 Easy | C++ |
+| 3720 | [Lexicographically Smallest Permutation Greater Than Target](https://leetcode.com/problems/lexicographically-smallest-permutation-greater-than-target) | 🟡 Medium | C++ |
 | 3718 | [Smallest Missing Multiple of K](https://leetcode.com/problems/smallest-missing-multiple-of-k) | 🟢 Easy | C++ |
 | 3658 | [GCD of Odd and Even Sums](https://leetcode.com/problems/gcd-of-odd-and-even-sums) | 🟢 Easy | C++ |
 | 3622 | [Check Divisibility by Digit Sum and Product](https://leetcode.com/problems/check-divisibility-by-digit-sum-and-product) | 🟢 Easy | C++ |
 | 3536 | [Maximum Product of Two Digits](https://leetcode.com/problems/maximum-product-of-two-digits) | 🟢 Easy | C++ |
 | 3517 | [Smallest Palindromic Rearrangement I](https://leetcode.com/problems/smallest-palindromic-rearrangement-i) | 🟡 Medium | C++ |
-| 3340 | [Check Balanced String](https://leetcode.com/problems/check-balanced-string) | 🟢 Easy | C++ |
 <!-- AUTO_RECENT_END -->
 
 ---
@@ -99,7 +99,7 @@ Loading...
 <!-- AUTO_LANG_START -->
 | Language | Solutions |
 |---|---:|
-| C++ | 151 |
+| C++ | 152 |
 | Java | 10 |
 | Unknown | 7 |
 | Postgresql | 2 |
@@ -111,7 +111,7 @@ Loading...
 # 📅 Last Updated
 
 <!-- AUTO_DATE_START -->
-30 August 2026 • 08:03
+30 August 2026 • 09:28
 <!-- AUTO_DATE_END -->
 
 ---
