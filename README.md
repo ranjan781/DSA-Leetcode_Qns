@@ -522,6 +522,7 @@ Every time I solve a new LeetCode problem:
 | [0328-odd-even-linked-list](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0328-odd-even-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0445-add-two-numbers-ii) |
 | [0706-design-hashmap](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0706-design-hashmap) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Bit Manipulation
 |  |
