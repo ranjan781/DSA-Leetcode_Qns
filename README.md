@@ -23,8 +23,8 @@
 <!-- AUTO_STATS_START -->
 | Metric | Value |
 |---|---:|
-| Total Solved | **175** |
-| 🟢 Easy | **112** |
+| Total Solved | **176** |
+| 🟢 Easy | **113** |
 | 🟡 Medium | **59** |
 | 🔴 Hard | **4** |
 
@@ -37,15 +37,15 @@
 <!-- AUTO_PROGRESS_START -->
 ### 🟢 Easy
 
-█████████████░░░░░░░ 112/175
+█████████████░░░░░░░ 113/176
 
 ### 🟡 Medium
 
-███████░░░░░░░░░░░░░ 59/175
+███████░░░░░░░░░░░░░ 59/176
 
 ### 🔴 Hard
 
-░░░░░░░░░░░░░░░░░░░░ 4/175
+░░░░░░░░░░░░░░░░░░░░ 4/176
 
 <!-- AUTO_PROGRESS_END -->
 
@@ -75,13 +75,13 @@ Loading...
 | 4030 | [Check ASCII Palindromic](https://leetcode.com/problems/check-ascii-palindromic) | 🟢 Easy | C++ |
 | 3992 | [Rearrange String to Avoid Character Pair](https://leetcode.com/problems/rearrange-string-to-avoid-character-pair) | 🟢 Easy | C++ |
 | 3754 | [Concatenate Non-Zero Digits and Multiply by Sum I](https://leetcode.com/problems/concatenate-non-zero-digits-and-multiply-by-sum-i) | 🟢 Easy | C++ |
+| 3875 | [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i) | 🟢 Easy | Unknown |
 | 3731 | [Find Missing Elements](https://leetcode.com/problems/find-missing-elements) | 🟢 Easy | C++ |
 | 3720 | [Lexicographically Smallest Permutation Greater Than Target](https://leetcode.com/problems/lexicographically-smallest-permutation-greater-than-target) | 🟡 Medium | C++ |
 | 3718 | [Smallest Missing Multiple of K](https://leetcode.com/problems/smallest-missing-multiple-of-k) | 🟢 Easy | C++ |
 | 3658 | [GCD of Odd and Even Sums](https://leetcode.com/problems/gcd-of-odd-and-even-sums) | 🟢 Easy | C++ |
 | 3622 | [Check Divisibility by Digit Sum and Product](https://leetcode.com/problems/check-divisibility-by-digit-sum-and-product) | 🟢 Easy | C++ |
 | 3536 | [Maximum Product of Two Digits](https://leetcode.com/problems/maximum-product-of-two-digits) | 🟢 Easy | C++ |
-| 3517 | [Smallest Palindromic Rearrangement I](https://leetcode.com/problems/smallest-palindromic-rearrangement-i) | 🟡 Medium | C++ |
 <!-- AUTO_RECENT_END -->
 
 ---
@@ -99,7 +99,7 @@ Loading...
 <!-- AUTO_LANG_START -->
 | Language | Solutions |
 |---|---:|
-| C++ | 154 |
+| C++ | 155 |
 | Java | 10 |
 | Unknown | 8 |
 | Postgresql | 2 |
@@ -111,7 +111,7 @@ Loading...
 # 📅 Last Updated
 
 <!-- AUTO_DATE_START -->
-01 September 2026 • 15:48
+02 September 2026 • 16:23
 <!-- AUTO_DATE_END -->
 
 ---
