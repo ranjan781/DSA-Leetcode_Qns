@@ -99,7 +99,7 @@ Loading...
 <!-- AUTO_LANG_START -->
 | Language | Solutions |
 |---|---:|
-| C++ | 157 |
+| C++ | 158 |
 | Java | 10 |
 | Unknown | 8 |
 | Postgresql | 2 |
