@@ -23,10 +23,10 @@
 <!-- AUTO_STATS_START -->
 | Metric | Value |
 |---|---:|
-| Total Solved | **176** |
+| Total Solved | **177** |
 | 🟢 Easy | **113** |
 | 🟡 Medium | **59** |
-| 🔴 Hard | **4** |
+| 🔴 Hard | **5** |
 
 <!-- AUTO_STATS_END -->
 
@@ -37,15 +37,15 @@
 <!-- AUTO_PROGRESS_START -->
 ### 🟢 Easy
 
-█████████████░░░░░░░ 113/176
+█████████████░░░░░░░ 113/177
 
 ### 🟡 Medium
 
-███████░░░░░░░░░░░░░ 59/176
+███████░░░░░░░░░░░░░ 59/177
 
 ### 🔴 Hard
 
-░░░░░░░░░░░░░░░░░░░░ 4/176
+█░░░░░░░░░░░░░░░░░░░ 5/177
 
 <!-- AUTO_PROGRESS_END -->
 
@@ -74,8 +74,8 @@ Loading...
 |---|---|---|---|
 | 4030 | [Check ASCII Palindromic](https://leetcode.com/problems/check-ascii-palindromic) | 🟢 Easy | C++ |
 | 3992 | [Rearrange String to Avoid Character Pair](https://leetcode.com/problems/rearrange-string-to-avoid-character-pair) | 🟢 Easy | C++ |
+| 3875 | [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i) | 🟢 Easy | C++ |
 | 3754 | [Concatenate Non-Zero Digits and Multiply by Sum I](https://leetcode.com/problems/concatenate-non-zero-digits-and-multiply-by-sum-i) | 🟢 Easy | C++ |
-| 3875 | [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i) | 🟢 Easy | Unknown |
 | 3731 | [Find Missing Elements](https://leetcode.com/problems/find-missing-elements) | 🟢 Easy | C++ |
 | 3720 | [Lexicographically Smallest Permutation Greater Than Target](https://leetcode.com/problems/lexicographically-smallest-permutation-greater-than-target) | 🟡 Medium | C++ |
 | 3718 | [Smallest Missing Multiple of K](https://leetcode.com/problems/smallest-missing-multiple-of-k) | 🟢 Easy | C++ |
@@ -99,9 +99,9 @@ Loading...
 <!-- AUTO_LANG_START -->
 | Language | Solutions |
 |---|---:|
-| C++ | 155 |
+| C++ | 157 |
 | Java | 10 |
-| Unknown | 8 |
+| Unknown | 7 |
 | Postgresql | 2 |
 | Python | 1 |
 <!-- AUTO_LANG_END -->
@@ -111,7 +111,7 @@ Loading...
 # 📅 Last Updated
 
 <!-- AUTO_DATE_START -->
-02 September 2026 • 16:23
+03 September 2026 • 15:34
 <!-- AUTO_DATE_END -->
 
 ---
