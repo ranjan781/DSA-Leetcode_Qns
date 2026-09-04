@@ -162,6 +162,7 @@ Every time I solve a new LeetCode problem:
 | [0229-majority-element-ii](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0287-find-the-duplicate-number) |
+| [0347-top-k-frequent-elements](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0347-top-k-frequent-elements) |
 | [0410-split-array-largest-sum](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -260,6 +261,7 @@ Every time I solve a new LeetCode problem:
 | [0229-majority-element-ii](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -295,6 +297,7 @@ Every time I solve a new LeetCode problem:
 | [0229-majority-element-ii](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -347,11 +350,13 @@ Every time I solve a new LeetCode problem:
 | [0148-sort-list](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0347-top-k-frequent-elements) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0451-sort-characters-by-frequency) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -621,15 +626,18 @@ Every time I solve a new LeetCode problem:
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0451-sort-characters-by-frequency) |
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0451-sort-characters-by-frequency) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0347-top-k-frequent-elements) |
 ## Timsort
 |  |
 | ------- |
