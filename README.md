@@ -205,6 +205,7 @@ Every time I solve a new LeetCode problem:
 | [2149-rearrange-array-elements-by-sign](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2418-sort-the-people](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/2418-sort-the-people) |
+| [2540-minimum-common-value](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/2540-minimum-common-value) |
 | [2574-left-and-right-sum-differences](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/2574-left-and-right-sum-differences) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -279,6 +280,7 @@ Every time I solve a new LeetCode problem:
 | [1748-sum-of-unique-elements](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1748-sum-of-unique-elements) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2418-sort-the-people](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/2418-sort-the-people) |
+| [2540-minimum-common-value](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/2540-minimum-common-value) |
 | [2716-minimize-string-length](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/2716-minimize-string-length) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -346,6 +348,7 @@ Every time I solve a new LeetCode problem:
 | [0977-squares-of-a-sorted-array](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0977-squares-of-a-sorted-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2540-minimum-common-value](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/2540-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Divide and Conquer
 |  |
@@ -407,6 +410,7 @@ Every time I solve a new LeetCode problem:
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1539-kth-missing-positive-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2540-minimum-common-value](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/2540-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Prefix Sum
 |  |
