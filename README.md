@@ -23,10 +23,10 @@
 <!-- AUTO_STATS_START -->
 | Metric | Value |
 |---|---:|
-| Total Solved | **190** |
+| Total Solved | **191** |
 | 🟢 Easy | **118** |
 | 🟡 Medium | **67** |
-| 🔴 Hard | **5** |
+| 🔴 Hard | **6** |
 
 <!-- AUTO_STATS_END -->
 
@@ -37,15 +37,15 @@
 <!-- AUTO_PROGRESS_START -->
 ### 🟢 Easy
 
-████████████░░░░░░░░ 118/190
+████████████░░░░░░░░ 118/191
 
 ### 🟡 Medium
 
-███████░░░░░░░░░░░░░ 67/190
+███████░░░░░░░░░░░░░ 67/191
 
 ### 🔴 Hard
 
-█░░░░░░░░░░░░░░░░░░░ 5/190
+█░░░░░░░░░░░░░░░░░░░ 6/191
 
 <!-- AUTO_PROGRESS_END -->
 
@@ -79,9 +79,9 @@ Loading...
 | 3876 | [Construct Uniform Parity Array II](https://leetcode.com/problems/construct-uniform-parity-array-ii) | 🟡 Medium | C++ |
 | 3875 | [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i) | 🟢 Easy | C++ |
 | 3754 | [Concatenate Non-Zero Digits and Multiply by Sum I](https://leetcode.com/problems/concatenate-non-zero-digits-and-multiply-by-sum-i) | 🟢 Easy | C++ |
+| 3734 | [Lexicographically Smallest Palindromic Permutation Greater Than Target](https://leetcode.com/problems/lexicographically-smallest-palindromic-permutation-greater-than-target) | 🔴 Hard | C++ |
 | 3731 | [Find Missing Elements](https://leetcode.com/problems/find-missing-elements) | 🟢 Easy | C++ |
 | 3720 | [Lexicographically Smallest Permutation Greater Than Target](https://leetcode.com/problems/lexicographically-smallest-permutation-greater-than-target) | 🟡 Medium | C++ |
-| 3718 | [Smallest Missing Multiple of K](https://leetcode.com/problems/smallest-missing-multiple-of-k) | 🟢 Easy | C++ |
 <!-- AUTO_RECENT_END -->
 
 ---
@@ -99,7 +99,7 @@ Loading...
 <!-- AUTO_LANG_START -->
 | Language | Solutions |
 |---|---:|
-| C++ | 168 |
+| C++ | 169 |
 | Java | 10 |
 | Unknown | 9 |
 | Postgresql | 2 |
@@ -111,7 +111,7 @@ Loading...
 # 📅 Last Updated
 
 <!-- AUTO_DATE_START -->
-06 September 2026 • 16:53
+07 September 2026 • 17:56
 <!-- AUTO_DATE_END -->
 
 ---
