@@ -207,6 +207,7 @@ Every time I solve a new LeetCode problem:
 | [2418-sort-the-people](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/2418-sort-the-people) |
 | [2540-minimum-common-value](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/2540-minimum-common-value) |
 | [2574-left-and-right-sum-differences](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/2574-left-and-right-sum-differences) |
+| [2706-buy-two-chocolates](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/2706-buy-two-chocolates) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -321,6 +322,7 @@ Every time I solve a new LeetCode problem:
 | [2089-find-target-indices-after-sorting-array](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2418-sort-the-people](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/2418-sort-the-people) |
+| [2706-buy-two-chocolates](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/2706-buy-two-chocolates) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -497,6 +499,7 @@ Every time I solve a new LeetCode problem:
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2706-buy-two-chocolates](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/2706-buy-two-chocolates) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
