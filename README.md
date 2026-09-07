@@ -23,8 +23,8 @@
 <!-- AUTO_STATS_START -->
 | Metric | Value |
 |---|---:|
-| Total Solved | **193** |
-| 🟢 Easy | **119** |
+| Total Solved | **194** |
+| 🟢 Easy | **120** |
 | 🟡 Medium | **68** |
 | 🔴 Hard | **6** |
 
@@ -37,15 +37,15 @@
 <!-- AUTO_PROGRESS_START -->
 ### 🟢 Easy
 
-████████████░░░░░░░░ 119/193
+████████████░░░░░░░░ 120/194
 
 ### 🟡 Medium
 
-███████░░░░░░░░░░░░░ 68/193
+███████░░░░░░░░░░░░░ 68/194
 
 ### 🔴 Hard
 
-█░░░░░░░░░░░░░░░░░░░ 6/193
+█░░░░░░░░░░░░░░░░░░░ 6/194
 
 <!-- AUTO_PROGRESS_END -->
 
@@ -74,6 +74,7 @@ Loading...
 |---|---|---|---|
 | 4030 | [Check ASCII Palindromic](https://leetcode.com/problems/check-ascii-palindromic) | 🟢 Easy | C++ |
 | 3992 | [Rearrange String to Avoid Character Pair](https://leetcode.com/problems/rearrange-string-to-avoid-character-pair) | 🟢 Easy | C++ |
+| 3978 | [Unique Middle Element](https://leetcode.com/problems/unique-middle-element) | 🟢 Easy | C++ |
 | 3904 | [Smallest Stable Index II](https://leetcode.com/problems/smallest-stable-index-ii) | 🟡 Medium | C++ |
 | 3903 | [Smallest Stable Index I](https://leetcode.com/problems/smallest-stable-index-i) | 🟢 Easy | C++ |
 | 3876 | [Construct Uniform Parity Array II](https://leetcode.com/problems/construct-uniform-parity-array-ii) | 🟡 Medium | C++ |
@@ -81,7 +82,6 @@ Loading...
 | 3754 | [Concatenate Non-Zero Digits and Multiply by Sum I](https://leetcode.com/problems/concatenate-non-zero-digits-and-multiply-by-sum-i) | 🟢 Easy | C++ |
 | 3734 | [Lexicographically Smallest Palindromic Permutation Greater Than Target](https://leetcode.com/problems/lexicographically-smallest-palindromic-permutation-greater-than-target) | 🔴 Hard | C++ |
 | 3731 | [Find Missing Elements](https://leetcode.com/problems/find-missing-elements) | 🟢 Easy | C++ |
-| 3720 | [Lexicographically Smallest Permutation Greater Than Target](https://leetcode.com/problems/lexicographically-smallest-permutation-greater-than-target) | 🟡 Medium | C++ |
 <!-- AUTO_RECENT_END -->
 
 ---
@@ -99,7 +99,7 @@ Loading...
 <!-- AUTO_LANG_START -->
 | Language | Solutions |
 |---|---:|
-| C++ | 171 |
+| C++ | 172 |
 | Java | 10 |
 | Unknown | 9 |
 | Postgresql | 2 |
@@ -111,7 +111,7 @@ Loading...
 # 📅 Last Updated
 
 <!-- AUTO_DATE_START -->
-07 September 2026 • 18:19
+07 September 2026 • 18:39
 <!-- AUTO_DATE_END -->
 
 ---
