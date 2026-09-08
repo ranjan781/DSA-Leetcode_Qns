@@ -23,8 +23,8 @@
 <!-- AUTO_STATS_START -->
 | Metric | Value |
 |---|---:|
-| Total Solved | **194** |
-| 🟢 Easy | **120** |
+| Total Solved | **195** |
+| 🟢 Easy | **121** |
 | 🟡 Medium | **68** |
 | 🔴 Hard | **6** |
 
@@ -37,15 +37,15 @@
 <!-- AUTO_PROGRESS_START -->
 ### 🟢 Easy
 
-████████████░░░░░░░░ 120/194
+████████████░░░░░░░░ 121/195
 
 ### 🟡 Medium
 
-███████░░░░░░░░░░░░░ 68/194
+███████░░░░░░░░░░░░░ 68/195
 
 ### 🔴 Hard
 
-█░░░░░░░░░░░░░░░░░░░ 6/194
+█░░░░░░░░░░░░░░░░░░░ 6/195
 
 <!-- AUTO_PROGRESS_END -->
 
@@ -79,9 +79,9 @@ Loading...
 | 3903 | [Smallest Stable Index I](https://leetcode.com/problems/smallest-stable-index-i) | 🟢 Easy | C++ |
 | 3876 | [Construct Uniform Parity Array II](https://leetcode.com/problems/construct-uniform-parity-array-ii) | 🟡 Medium | C++ |
 | 3875 | [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i) | 🟢 Easy | C++ |
+| 3870 | [Count Commas in Range](https://leetcode.com/problems/count-commas-in-range) | 🟢 Easy | C++ |
 | 3754 | [Concatenate Non-Zero Digits and Multiply by Sum I](https://leetcode.com/problems/concatenate-non-zero-digits-and-multiply-by-sum-i) | 🟢 Easy | C++ |
 | 3734 | [Lexicographically Smallest Palindromic Permutation Greater Than Target](https://leetcode.com/problems/lexicographically-smallest-palindromic-permutation-greater-than-target) | 🔴 Hard | C++ |
-| 3731 | [Find Missing Elements](https://leetcode.com/problems/find-missing-elements) | 🟢 Easy | C++ |
 <!-- AUTO_RECENT_END -->
 
 ---
@@ -99,7 +99,7 @@ Loading...
 <!-- AUTO_LANG_START -->
 | Language | Solutions |
 |---|---:|
-| C++ | 172 |
+| C++ | 173 |
 | Java | 10 |
 | Unknown | 9 |
 | Postgresql | 2 |
@@ -111,7 +111,7 @@ Loading...
 # 📅 Last Updated
 
 <!-- AUTO_DATE_START -->
-07 September 2026 • 18:39
+08 September 2026 • 09:03
 <!-- AUTO_DATE_END -->
 
 ---
