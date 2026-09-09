@@ -23,9 +23,9 @@
 <!-- AUTO_STATS_START -->
 | Metric | Value |
 |---|---:|
-| Total Solved | **201** |
+| Total Solved | **202** |
 | 🟢 Easy | **124** |
-| 🟡 Medium | **71** |
+| 🟡 Medium | **72** |
 | 🔴 Hard | **6** |
 
 <!-- AUTO_STATS_END -->
@@ -37,15 +37,15 @@
 <!-- AUTO_PROGRESS_START -->
 ### 🟢 Easy
 
-████████████░░░░░░░░ 124/201
+████████████░░░░░░░░ 124/202
 
 ### 🟡 Medium
 
-███████░░░░░░░░░░░░░ 71/201
+███████░░░░░░░░░░░░░ 72/202
 
 ### 🔴 Hard
 
-█░░░░░░░░░░░░░░░░░░░ 6/201
+█░░░░░░░░░░░░░░░░░░░ 6/202
 
 <!-- AUTO_PROGRESS_END -->
 
@@ -79,9 +79,9 @@ Loading...
 | 3903 | [Smallest Stable Index I](https://leetcode.com/problems/smallest-stable-index-i) | 🟢 Easy | C++ |
 | 3876 | [Construct Uniform Parity Array II](https://leetcode.com/problems/construct-uniform-parity-array-ii) | 🟡 Medium | C++ |
 | 3875 | [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i) | 🟢 Easy | C++ |
+| 3871 | [Count Commas in Range II](https://leetcode.com/problems/count-commas-in-range-ii) | 🟡 Medium | C++ |
 | 3870 | [Count Commas in Range](https://leetcode.com/problems/count-commas-in-range) | 🟢 Easy | C++ |
 | 3754 | [Concatenate Non-Zero Digits and Multiply by Sum I](https://leetcode.com/problems/concatenate-non-zero-digits-and-multiply-by-sum-i) | 🟢 Easy | C++ |
-| 3734 | [Lexicographically Smallest Palindromic Permutation Greater Than Target](https://leetcode.com/problems/lexicographically-smallest-palindromic-permutation-greater-than-target) | 🔴 Hard | C++ |
 <!-- AUTO_RECENT_END -->
 
 ---
@@ -99,7 +99,7 @@ Loading...
 <!-- AUTO_LANG_START -->
 | Language | Solutions |
 |---|---:|
-| C++ | 178 |
+| C++ | 179 |
 | Java | 10 |
 | Unknown | 10 |
 | Postgresql | 2 |
@@ -111,7 +111,7 @@ Loading...
 # 📅 Last Updated
 
 <!-- AUTO_DATE_START -->
-08 September 2026 • 18:04
+09 September 2026 • 17:32
 <!-- AUTO_DATE_END -->
 
 ---
