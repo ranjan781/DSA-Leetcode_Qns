@@ -692,6 +692,7 @@ Every time I solve a new LeetCode problem:
 | [0145-binary-tree-postorder-traversal](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0543-diameter-of-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -705,6 +706,7 @@ Every time I solve a new LeetCode problem:
 | [0145-binary-tree-postorder-traversal](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0543-diameter-of-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -720,6 +722,7 @@ Every time I solve a new LeetCode problem:
 | [0145-binary-tree-postorder-traversal](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0543-diameter-of-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
 | ------- |
