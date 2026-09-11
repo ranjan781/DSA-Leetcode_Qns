@@ -205,6 +205,7 @@ Every time I solve a new LeetCode problem:
 | [1991-find-the-middle-index-in-array](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1991-find-the-middle-index-in-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2094-finding-3-digit-even-numbers](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/2094-finding-3-digit-even-numbers) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2418-sort-the-people](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/2418-sort-the-people) |
@@ -290,6 +291,7 @@ Every time I solve a new LeetCode problem:
 | [1636-sort-array-by-increasing-frequency](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1748-sum-of-unique-elements](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1748-sum-of-unique-elements) |
+| [2094-finding-3-digit-even-numbers](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/2094-finding-3-digit-even-numbers) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2418-sort-the-people](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/2418-sort-the-people) |
 | [2540-minimum-common-value](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/2540-minimum-common-value) |
@@ -329,6 +331,7 @@ Every time I solve a new LeetCode problem:
 | [1833-maximum-ice-cream-bars](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1833-maximum-ice-cream-bars) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2094-finding-3-digit-even-numbers](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/2094-finding-3-digit-even-numbers) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2418-sort-the-people](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/2418-sort-the-people) |
 | [2706-buy-two-chocolates](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/2706-buy-two-chocolates) |
@@ -497,6 +500,7 @@ Every time I solve a new LeetCode problem:
 | [0342-power-of-four](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0342-power-of-four) |
 | [0486-predict-the-winner](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0509-fibonacci-number) |
+| [2094-finding-3-digit-even-numbers](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/2094-finding-3-digit-even-numbers) |
 ## Memoization
 |  |
 | ------- |
@@ -746,6 +750,7 @@ Every time I solve a new LeetCode problem:
 ## Enumeration
 |  |
 | ------- |
+| [2094-finding-3-digit-even-numbers](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/2094-finding-3-digit-even-numbers) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Union-Find
