@@ -187,6 +187,7 @@ Every time I solve a new LeetCode problem:
 | [0989-add-to-array-form-of-integer](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0989-add-to-array-form-of-integer) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
+| [1207-unique-number-of-occurrences](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1207-unique-number-of-occurrences) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1331-rank-transform-of-an-array](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1331-rank-transform-of-an-array) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -287,6 +288,7 @@ Every time I solve a new LeetCode problem:
 | [0567-permutation-in-string](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0567-permutation-in-string) |
 | [0645-set-mismatch](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0645-set-mismatch) |
 | [0706-design-hashmap](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0706-design-hashmap) |
+| [1207-unique-number-of-occurrences](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1331-rank-transform-of-an-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1636-sort-array-by-increasing-frequency) |
