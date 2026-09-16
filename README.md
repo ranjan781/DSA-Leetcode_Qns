@@ -463,6 +463,7 @@ Every time I solve a new LeetCode problem:
 | [0258-add-digits](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0367-valid-perfect-square) |
@@ -638,10 +639,12 @@ Every time I solve a new LeetCode problem:
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1025-divisor-game) |
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0292-nim-game) |
 | [0486-predict-the-winner](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0486-predict-the-winner) |
 | [1025-divisor-game](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1025-divisor-game) |
 | [1406-stone-game-iii](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1406-stone-game-iii) |
@@ -657,6 +660,7 @@ Every time I solve a new LeetCode problem:
 ## Minimax
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0292-nim-game) |
 | [1406-stone-game-iii](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
@@ -770,4 +774,12 @@ Every time I solve a new LeetCode problem:
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0836-rectangle-overlap) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
