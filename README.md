@@ -195,6 +195,7 @@ Every time I solve a new LeetCode problem:
 | [1394-find-lucky-integer-in-an-array](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1406-stone-game-iii](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1406-stone-game-iii) |
 | [1470-shuffle-the-array](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1470-shuffle-the-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1539-kth-missing-positive-number) |
@@ -292,6 +293,7 @@ Every time I solve a new LeetCode problem:
 | [1207-unique-number-of-occurrences](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1331-rank-transform-of-an-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1748-sum-of-unique-elements](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1748-sum-of-unique-elements) |
@@ -408,6 +410,7 @@ Every time I solve a new LeetCode problem:
 | [1025-divisor-game](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1137-n-th-tribonacci-number) |
 | [1406-stone-game-iii](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1406-stone-game-iii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Binary Search
 |  |
 | ------- |
@@ -431,6 +434,7 @@ Every time I solve a new LeetCode problem:
 | [0875-koko-eating-bananas](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1539-kth-missing-positive-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -608,6 +612,7 @@ Every time I solve a new LeetCode problem:
 | [0219-contains-duplicate-ii](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0219-contains-duplicate-ii) |
 | [0567-permutation-in-string](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0567-permutation-in-string) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Interactive
