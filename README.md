@@ -212,6 +212,7 @@ Every time I solve a new LeetCode problem:
 | [2149-rearrange-array-elements-by-sign](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2418-sort-the-people](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/2418-sort-the-people) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2540-minimum-common-value](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/2540-minimum-common-value) |
 | [2574-left-and-right-sum-differences](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/2574-left-and-right-sum-differences) |
 | [2706-buy-two-chocolates](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/2706-buy-two-chocolates) |
@@ -490,6 +491,7 @@ Every time I solve a new LeetCode problem:
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2235-add-two-integers](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/2235-add-two-integers) |
 | [2409-count-days-spent-together](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/2409-count-days-spent-together) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2544-alternating-digit-sum](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/2544-alternating-digit-sum) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3099-harshad-number](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/3099-harshad-number) |
