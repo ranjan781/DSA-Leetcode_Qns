@@ -490,6 +490,7 @@ Every time I solve a new LeetCode problem:
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1360-number-of-days-between-two-dates](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1360-number-of-days-between-two-dates) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1406-stone-game-iii) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2235-add-two-integers](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/2235-add-two-integers) |
@@ -784,6 +785,7 @@ Every time I solve a new LeetCode problem:
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Nim Game
 |  |
 | ------- |
