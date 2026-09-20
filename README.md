@@ -263,6 +263,7 @@ Every time I solve a new LeetCode problem:
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+| [3794-reverse-string-prefix](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/3794-reverse-string-prefix) |
 ## Trie
 |  |
 | ------- |
@@ -380,6 +381,7 @@ Every time I solve a new LeetCode problem:
 | [2540-minimum-common-value](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/2540-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+| [3794-reverse-string-prefix](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/3794-reverse-string-prefix) |
 ## Divide and Conquer
 |  |
 | ------- |
