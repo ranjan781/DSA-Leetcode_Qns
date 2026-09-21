@@ -502,6 +502,7 @@ Every time I solve a new LeetCode problem:
 | [2409-count-days-spent-together](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/2409-count-days-spent-together) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2544-alternating-digit-sum](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/2544-alternating-digit-sum) |
+| [2652-sum-multiples](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/2652-sum-multiples) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3099-harshad-number](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/3099-harshad-number) |
 | [3536-maximum-product-of-two-digits](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/3536-maximum-product-of-two-digits) |
