@@ -206,6 +206,7 @@ Every time I solve a new LeetCode problem:
 | [1833-maximum-ice-cream-bars](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1833-maximum-ice-cream-bars) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1929-concatenation-of-array](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1929-concatenation-of-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1991-find-the-middle-index-in-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -500,6 +501,7 @@ Every time I solve a new LeetCode problem:
 | [1360-number-of-days-between-two-dates](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1360-number-of-days-between-two-dates) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1406-stone-game-iii) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2235-add-two-integers](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/2235-add-two-integers) |
 | [2409-count-days-spent-together](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/2409-count-days-spent-together) |
@@ -651,6 +653,7 @@ Every time I solve a new LeetCode problem:
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0258-add-digits) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Merge Sort
 |  |
 | ------- |
@@ -806,4 +809,12 @@ Every time I solve a new LeetCode problem:
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0292-nim-game) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
