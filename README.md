@@ -253,6 +253,7 @@ Every time I solve a new LeetCode problem:
 | [0551-student-attendance-record-i](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0551-student-attendance-record-i) |
 | [0567-permutation-in-string](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0567-permutation-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1360-number-of-days-between-two-dates](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1360-number-of-days-between-two-dates) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2409-count-days-spent-together](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/2409-count-days-spent-together) |
@@ -572,6 +573,7 @@ Every time I solve a new LeetCode problem:
 | [0503-next-greater-element-ii](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0907-sum-of-subarray-minimums) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [3174-clear-digits](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/3174-clear-digits) |
 ## Design
 |  |
@@ -817,4 +819,8 @@ Every time I solve a new LeetCode problem:
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
