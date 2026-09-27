@@ -23,8 +23,8 @@
 <!-- AUTO_STATS_START -->
 | Metric | Value |
 |---|---:|
-| Total Solved | **232** |
-| 🟢 Easy | **146** |
+| Total Solved | **233** |
+| 🟢 Easy | **147** |
 | 🟡 Medium | **80** |
 | 🔴 Hard | **6** |
 
@@ -37,15 +37,15 @@
 <!-- AUTO_PROGRESS_START -->
 ### 🟢 Easy
 
-█████████████░░░░░░░ 146/232
+█████████████░░░░░░░ 147/233
 
 ### 🟡 Medium
 
-███████░░░░░░░░░░░░░ 80/232
+███████░░░░░░░░░░░░░ 80/233
 
 ### 🔴 Hard
 
-█░░░░░░░░░░░░░░░░░░░ 6/232
+█░░░░░░░░░░░░░░░░░░░ 6/233
 
 <!-- AUTO_PROGRESS_END -->
 
@@ -72,6 +72,7 @@ Loading...
 <!-- AUTO_RECENT_START -->
 | # | Problem | Difficulty | Language |
 |---|---|---|---|
+| 4065 | [Rearrange Array by Removing Distinct Values](https://leetcode.com/problems/rearrange-array-by-removing-distinct-values) | 🟢 Easy | C++ |
 | 4049 | [Count Values With Equally Spaced Occurrences II](https://leetcode.com/problems/count-values-with-equally-spaced-occurrences-ii) | 🟡 Medium | C++ |
 | 4030 | [Check ASCII Palindromic](https://leetcode.com/problems/check-ascii-palindromic) | 🟢 Easy | C++ |
 | 3992 | [Rearrange String to Avoid Character Pair](https://leetcode.com/problems/rearrange-string-to-avoid-character-pair) | 🟢 Easy | C++ |
@@ -81,7 +82,6 @@ Loading...
 | 3876 | [Construct Uniform Parity Array II](https://leetcode.com/problems/construct-uniform-parity-array-ii) | 🟡 Medium | C++ |
 | 3875 | [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i) | 🟢 Easy | C++ |
 | 3871 | [Count Commas in Range II](https://leetcode.com/problems/count-commas-in-range-ii) | 🟡 Medium | C++ |
-| 3870 | [Count Commas in Range](https://leetcode.com/problems/count-commas-in-range) | 🟢 Easy | C++ |
 <!-- AUTO_RECENT_END -->
 
 ---
@@ -99,7 +99,7 @@ Loading...
 <!-- AUTO_LANG_START -->
 | Language | Solutions |
 |---|---:|
-| C++ | 207 |
+| C++ | 208 |
 | Unknown | 13 |
 | Java | 9 |
 | Postgresql | 2 |
@@ -111,7 +111,7 @@ Loading...
 # 📅 Last Updated
 
 <!-- AUTO_DATE_START -->
-27 September 2026 • 09:21
+27 September 2026 • 16:54
 <!-- AUTO_DATE_END -->
 
 ---
