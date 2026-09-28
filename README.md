@@ -243,6 +243,7 @@ Every time I solve a new LeetCode problem:
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0058-length-of-last-word) |
 | [0205-isomorphic-strings](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0205-isomorphic-strings) |
+| [0214-shortest-palindrome](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0316-remove-duplicate-letters) |
 | [0387-first-unique-character-in-a-string](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0387-first-unique-character-in-a-string) |
@@ -669,6 +670,7 @@ Every time I solve a new LeetCode problem:
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0214-shortest-palindrome) |
 ## Brainteaser
 |  |
 | ------- |
@@ -706,6 +708,7 @@ Every time I solve a new LeetCode problem:
 ## Hash Function
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0214-shortest-palindrome) |
 | [0706-design-hashmap](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0706-design-hashmap) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
@@ -829,4 +832,20 @@ Every time I solve a new LeetCode problem:
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0214-shortest-palindrome) |
+## Manacher
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0214-shortest-palindrome) |
+## Z Algorithm
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0214-shortest-palindrome) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
