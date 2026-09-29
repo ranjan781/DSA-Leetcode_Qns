@@ -176,6 +176,7 @@ Every time I solve a new LeetCode problem:
 | [0496-next-greater-element-i](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0540-single-element-in-a-sorted-array) |
+| [0560-subarray-sum-equals-k](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0645-set-mismatch) |
@@ -302,6 +303,7 @@ Every time I solve a new LeetCode problem:
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0645-set-mismatch) |
@@ -466,6 +468,7 @@ Every time I solve a new LeetCode problem:
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0410-split-array-largest-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1732-find-the-highest-altitude) |
