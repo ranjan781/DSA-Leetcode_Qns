@@ -176,6 +176,7 @@ Every time I solve a new LeetCode problem:
 | [0496-next-greater-element-i](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0540-single-element-in-a-sorted-array) |
+| [0594-longest-harmonious-subsequence](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0645-set-mismatch) |
 | [0706-design-hashmap](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0706-design-hashmap) |
@@ -302,6 +303,7 @@ Every time I solve a new LeetCode problem:
 | [0451-sort-characters-by-frequency](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0567-permutation-in-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0645-set-mismatch) |
 | [0706-design-hashmap](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0706-design-hashmap) |
 | [1207-unique-number-of-occurrences](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1207-unique-number-of-occurrences) |
@@ -345,6 +347,7 @@ Every time I solve a new LeetCode problem:
 | [0442-find-all-duplicates-in-an-array](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0455-assign-cookies) |
+| [0594-longest-harmonious-subsequence](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0645-set-mismatch) |
 | [0881-boats-to-save-people](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0881-boats-to-save-people) |
@@ -408,6 +411,7 @@ Every time I solve a new LeetCode problem:
 | [0347-top-k-frequent-elements](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0451-sort-characters-by-frequency) |
+| [0594-longest-harmonious-subsequence](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0594-longest-harmonious-subsequence) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1748-sum-of-unique-elements](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1748-sum-of-unique-elements) |
@@ -637,6 +641,7 @@ Every time I solve a new LeetCode problem:
 | [0003-longest-substring-without-repeating-characters](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0219-contains-duplicate-ii) |
 | [0567-permutation-in-string](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0567-permutation-in-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0594-longest-harmonious-subsequence) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
