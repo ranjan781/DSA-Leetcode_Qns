@@ -257,6 +257,7 @@ Every time I solve a new LeetCode problem:
 | [0551-student-attendance-record-i](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0551-student-attendance-record-i) |
 | [0567-permutation-in-string](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0567-permutation-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1360-number-of-days-between-two-dates](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1360-number-of-days-between-two-dates) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -585,6 +586,7 @@ Every time I solve a new LeetCode problem:
 | [0503-next-greater-element-ii](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0907-sum-of-subarray-minimums) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [3174-clear-digits](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/3174-clear-digits) |
@@ -838,6 +840,7 @@ Every time I solve a new LeetCode problem:
 ## Bracket Sequences
 |  |
 | ------- |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Rolling Hash
