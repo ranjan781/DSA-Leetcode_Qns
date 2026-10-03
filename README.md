@@ -236,6 +236,7 @@ Every time I solve a new LeetCode problem:
 | [3876-construct-uniform-parity-array-ii](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/3904-smallest-stable-index-ii) |
+| [4038-count-integers-appearing-in-a-single-block](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/4038-count-integers-appearing-in-a-single-block) |
 ## String
 |  |
 | ------- |
@@ -332,6 +333,7 @@ Every time I solve a new LeetCode problem:
 | [3718-smallest-missing-multiple-of-k](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/3731-find-missing-elements) |
+| [4038-count-integers-appearing-in-a-single-block](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/4038-count-integers-appearing-in-a-single-block) |
 ## Sorting
 |  |
 | ------- |
@@ -422,6 +424,7 @@ Every time I solve a new LeetCode problem:
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [4038-count-integers-appearing-in-a-single-block](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/4038-count-integers-appearing-in-a-single-block) |
 ## Dynamic Programming
 |  |
 | ------- |
