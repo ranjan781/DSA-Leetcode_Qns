@@ -258,6 +258,7 @@ Every time I solve a new LeetCode problem:
 | [0520-detect-capital](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0520-detect-capital) |
 | [0551-student-attendance-record-i](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0551-student-attendance-record-i) |
 | [0567-permutation-in-string](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0567-permutation-in-string) |
+| [0678-valid-parenthesis-string](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0678-valid-parenthesis-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -435,6 +436,7 @@ Every time I solve a new LeetCode problem:
 | [0410-split-array-largest-sum](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0410-split-array-largest-sum) |
 | [0486-predict-the-winner](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0509-fibonacci-number) |
+| [0678-valid-parenthesis-string](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0678-valid-parenthesis-string) |
 | [0907-sum-of-subarray-minimums](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0907-sum-of-subarray-minimums) |
 | [1025-divisor-game](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1137-n-th-tribonacci-number) |
@@ -561,6 +563,7 @@ Every time I solve a new LeetCode problem:
 | [0316-remove-duplicate-letters](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0316-remove-duplicate-letters) |
 | [0410-split-array-largest-sum](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0678-valid-parenthesis-string) |
 | [0881-boats-to-save-people](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0881-boats-to-save-people) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -588,6 +591,7 @@ Every time I solve a new LeetCode problem:
 | [0445-add-two-numbers-ii](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0678-valid-parenthesis-string) |
 | [0907-sum-of-subarray-minimums](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0907-sum-of-subarray-minimums) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -844,6 +848,7 @@ Every time I solve a new LeetCode problem:
 ## Bracket Sequences
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
