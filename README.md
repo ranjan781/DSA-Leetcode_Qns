@@ -168,6 +168,7 @@ Every time I solve a new LeetCode problem:
 | [0350-intersection-of-two-arrays-ii](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0414-third-maximum-number) |
+| [0435-non-overlapping-intervals](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -351,6 +352,7 @@ Every time I solve a new LeetCode problem:
 | [0350-intersection-of-two-arrays-ii](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0414-third-maximum-number) |
+| [0435-non-overlapping-intervals](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0455-assign-cookies) |
@@ -434,6 +436,7 @@ Every time I solve a new LeetCode problem:
 | [0055-jump-game](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0055-jump-game) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0410-split-array-largest-sum](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0678-valid-parenthesis-string) |
@@ -562,6 +565,7 @@ Every time I solve a new LeetCode problem:
 | [0055-jump-game](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0055-jump-game) |
 | [0316-remove-duplicate-letters](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0316-remove-duplicate-letters) |
 | [0410-split-array-largest-sum](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0678-valid-parenthesis-string) |
 | [0881-boats-to-save-people](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0881-boats-to-save-people) |
