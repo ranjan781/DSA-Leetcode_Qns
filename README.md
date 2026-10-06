@@ -235,6 +235,7 @@ Every time I solve a new LeetCode problem:
 | [3731-find-missing-elements](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3895-count-digit-appearances](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/3895-count-digit-appearances) |
 | [3903-smallest-stable-index-i](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/3904-smallest-stable-index-ii) |
 | [4038-count-integers-appearing-in-a-single-block](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/4038-count-integers-appearing-in-a-single-block) |
@@ -541,6 +542,7 @@ Every time I solve a new LeetCode problem:
 | [3871-count-commas-in-range-ii](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3895-count-digit-appearances](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/3895-count-digit-appearances) |
 ## Recursion
 |  |
 | ------- |
