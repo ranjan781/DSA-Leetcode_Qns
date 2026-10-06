@@ -23,9 +23,9 @@
 <!-- AUTO_STATS_START -->
 | Metric | Value |
 |---|---:|
-| Total Solved | **243** |
+| Total Solved | **244** |
 | 🟢 Easy | **151** |
-| 🟡 Medium | **85** |
+| 🟡 Medium | **86** |
 | 🔴 Hard | **7** |
 
 <!-- AUTO_STATS_END -->
@@ -37,15 +37,15 @@
 <!-- AUTO_PROGRESS_START -->
 ### 🟢 Easy
 
-████████████░░░░░░░░ 151/243
+████████████░░░░░░░░ 151/244
 
 ### 🟡 Medium
 
-███████░░░░░░░░░░░░░ 85/243
+███████░░░░░░░░░░░░░ 86/244
 
 ### 🔴 Hard
 
-█░░░░░░░░░░░░░░░░░░░ 7/243
+█░░░░░░░░░░░░░░░░░░░ 7/244
 
 <!-- AUTO_PROGRESS_END -->
 
@@ -80,8 +80,8 @@ Loading...
 | 3978 | [Unique Middle Element](https://leetcode.com/problems/unique-middle-element) | 🟢 Easy | C++ |
 | 3904 | [Smallest Stable Index II](https://leetcode.com/problems/smallest-stable-index-ii) | 🟡 Medium | C++ |
 | 3903 | [Smallest Stable Index I](https://leetcode.com/problems/smallest-stable-index-i) | 🟢 Easy | C++ |
+| 3895 | [Count Digit Appearances](https://leetcode.com/problems/count-digit-appearances) | 🟡 Medium | C++ |
 | 3876 | [Construct Uniform Parity Array II](https://leetcode.com/problems/construct-uniform-parity-array-ii) | 🟡 Medium | C++ |
-| 3875 | [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i) | 🟢 Easy | C++ |
 <!-- AUTO_RECENT_END -->
 
 ---
@@ -99,7 +99,7 @@ Loading...
 <!-- AUTO_LANG_START -->
 | Language | Solutions |
 |---|---:|
-| C++ | 218 |
+| C++ | 219 |
 | Unknown | 13 |
 | Java | 9 |
 | Postgresql | 2 |
@@ -111,7 +111,7 @@ Loading...
 # 📅 Last Updated
 
 <!-- AUTO_DATE_START -->
-05 October 2026 • 17:12
+06 October 2026 • 15:25
 <!-- AUTO_DATE_END -->
 
 ---
