@@ -23,8 +23,8 @@
 <!-- AUTO_STATS_START -->
 | Metric | Value |
 |---|---:|
-| Total Solved | **250** |
-| 🟢 Easy | **155** |
+| Total Solved | **251** |
+| 🟢 Easy | **156** |
 | 🟡 Medium | **88** |
 | 🔴 Hard | **7** |
 
@@ -37,15 +37,15 @@
 <!-- AUTO_PROGRESS_START -->
 ### 🟢 Easy
 
-████████████░░░░░░░░ 155/250
+████████████░░░░░░░░ 156/251
 
 ### 🟡 Medium
 
-███████░░░░░░░░░░░░░ 88/250
+███████░░░░░░░░░░░░░ 88/251
 
 ### 🔴 Hard
 
-█░░░░░░░░░░░░░░░░░░░ 7/250
+█░░░░░░░░░░░░░░░░░░░ 7/251
 
 <!-- AUTO_PROGRESS_END -->
 
@@ -72,6 +72,7 @@ Loading...
 <!-- AUTO_RECENT_START -->
 | # | Problem | Difficulty | Language |
 |---|---|---|---|
+| 4078 | [Three Fibonacci Sum](https://leetcode.com/problems/three-fibonacci-sum) | 🟢 Easy | C++ |
 | 4065 | [Rearrange Array by Removing Distinct Values](https://leetcode.com/problems/rearrange-array-by-removing-distinct-values) | 🟢 Easy | C++ |
 | 4049 | [Count Values With Equally Spaced Occurrences II](https://leetcode.com/problems/count-values-with-equally-spaced-occurrences-ii) | 🟡 Medium | C++ |
 | 4038 | [Count Integers Appearing in a Single Block](https://leetcode.com/problems/count-integers-appearing-in-a-single-block) | 🟢 Easy | C++ |
@@ -81,7 +82,6 @@ Loading...
 | 3904 | [Smallest Stable Index II](https://leetcode.com/problems/smallest-stable-index-ii) | 🟡 Medium | C++ |
 | 3903 | [Smallest Stable Index I](https://leetcode.com/problems/smallest-stable-index-i) | 🟢 Easy | C++ |
 | 3895 | [Count Digit Appearances](https://leetcode.com/problems/count-digit-appearances) | 🟡 Medium | C++ |
-| 3876 | [Construct Uniform Parity Array II](https://leetcode.com/problems/construct-uniform-parity-array-ii) | 🟡 Medium | C++ |
 <!-- AUTO_RECENT_END -->
 
 ---
@@ -99,7 +99,7 @@ Loading...
 <!-- AUTO_LANG_START -->
 | Language | Solutions |
 |---|---:|
-| C++ | 224 |
+| C++ | 225 |
 | Unknown | 14 |
 | Java | 9 |
 | Postgresql | 2 |
@@ -111,7 +111,7 @@ Loading...
 # 📅 Last Updated
 
 <!-- AUTO_DATE_START -->
-12 October 2026 • 10:57
+12 October 2026 • 18:36
 <!-- AUTO_DATE_END -->
 
 ---
