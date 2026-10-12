@@ -219,6 +219,7 @@ Every time I solve a new LeetCode problem:
 | [2094-finding-3-digit-even-numbers](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/2094-finding-3-digit-even-numbers) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2418-sort-the-people](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/2418-sort-the-people) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2540-minimum-common-value](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/2540-minimum-common-value) |
@@ -372,6 +373,7 @@ Every time I solve a new LeetCode problem:
 | [2089-find-target-indices-after-sorting-array](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/2094-finding-3-digit-even-numbers) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2418-sort-the-people](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/2418-sort-the-people) |
 | [2706-buy-two-chocolates](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/2706-buy-two-chocolates) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -476,6 +478,7 @@ Every time I solve a new LeetCode problem:
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1539-kth-missing-positive-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2540-minimum-common-value](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/2540-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Prefix Sum
@@ -580,6 +583,7 @@ Every time I solve a new LeetCode problem:
 | [1833-maximum-ice-cream-bars](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1833-maximum-ice-cream-bars) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2706-buy-two-chocolates](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/2706-buy-two-chocolates) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -749,6 +753,7 @@ Every time I solve a new LeetCode problem:
 | [0215-kth-largest-element-in-an-array](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0451-sort-characters-by-frequency) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Bucket Sort
 |  |
 | ------- |
