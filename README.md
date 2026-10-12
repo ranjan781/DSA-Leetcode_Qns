@@ -531,6 +531,7 @@ Every time I solve a new LeetCode problem:
 | [1360-number-of-days-between-two-dates](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1360-number-of-days-between-two-dates) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1406-stone-game-iii) |
+| [1688-count-of-matches-in-tournament](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1688-count-of-matches-in-tournament) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2235-add-two-integers](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/2235-add-two-integers) |
@@ -683,6 +684,7 @@ Every time I solve a new LeetCode problem:
 | ------- |
 | [0258-add-digits](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0412-fizz-buzz) |
+| [1688-count-of-matches-in-tournament](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1688-count-of-matches-in-tournament) |
 | [1929-concatenation-of-array](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/3069-distribute-elements-into-two-arrays-i) |
