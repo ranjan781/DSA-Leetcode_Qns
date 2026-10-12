@@ -402,6 +402,7 @@ Every time I solve a new LeetCode problem:
 | [0350-intersection-of-two-arrays-ii](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0567-permutation-in-string) |
+| [0633-sum-of-square-numbers](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0633-sum-of-square-numbers) |
 | [0881-boats-to-save-people](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0977-squares-of-a-sorted-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -470,6 +471,7 @@ Every time I solve a new LeetCode problem:
 | [0410-split-array-largest-sum](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0410-split-array-largest-sum) |
 | [0441-arranging-coins](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0540-single-element-in-a-sorted-array) |
+| [0633-sum-of-square-numbers](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0633-sum-of-square-numbers) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -521,6 +523,7 @@ Every time I solve a new LeetCode problem:
 | [0486-predict-the-winner](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0628-maximum-product-of-three-numbers) |
+| [0633-sum-of-square-numbers](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0633-sum-of-square-numbers) |
 | [0728-self-dividing-numbers](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0728-self-dividing-numbers) |
 | [0836-rectangle-overlap](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0836-rectangle-overlap) |
 | [0989-add-to-array-form-of-integer](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0989-add-to-array-form-of-integer) |
