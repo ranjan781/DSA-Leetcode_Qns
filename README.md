@@ -235,6 +235,7 @@ Every time I solve a new LeetCode problem:
 | [3683-earliest-time-to-finish-one-task](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/3683-earliest-time-to-finish-one-task) |
 | [3701-compute-alternating-sum](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/3701-compute-alternating-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -381,6 +382,7 @@ Every time I solve a new LeetCode problem:
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/3536-maximum-product-of-two-digits) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
@@ -592,6 +594,7 @@ Every time I solve a new LeetCode problem:
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Stack
 |  |
 | ------- |
