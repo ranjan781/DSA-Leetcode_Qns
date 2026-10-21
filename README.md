@@ -192,6 +192,7 @@ Every time I solve a new LeetCode problem:
 | [0989-add-to-array-form-of-integer](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0989-add-to-array-form-of-integer) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
+| [1051-height-checker](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1051-height-checker) |
 | [1207-unique-number-of-occurrences](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1207-unique-number-of-occurrences) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1331-rank-transform-of-an-array](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1331-rank-transform-of-an-array) |
@@ -367,6 +368,7 @@ Every time I solve a new LeetCode problem:
 | [0645-set-mismatch](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0645-set-mismatch) |
 | [0881-boats-to-save-people](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0977-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1051-height-checker) |
 | [1331-rank-transform-of-an-array](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1331-rank-transform-of-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1833-maximum-ice-cream-bars](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1833-maximum-ice-cream-bars) |
@@ -727,6 +729,7 @@ Every time I solve a new LeetCode problem:
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0561-array-partition) |
+| [1051-height-checker](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1051-height-checker) |
 | [1833-maximum-ice-cream-bars](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1833-maximum-ice-cream-bars) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Backtracking
@@ -893,4 +896,8 @@ Every time I solve a new LeetCode problem:
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0214-shortest-palindrome) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
