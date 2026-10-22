@@ -23,9 +23,9 @@
 <!-- AUTO_STATS_START -->
 | Metric | Value |
 |---|---:|
-| Total Solved | **254** |
+| Total Solved | **255** |
 | 🟢 Easy | **158** |
-| 🟡 Medium | **89** |
+| 🟡 Medium | **90** |
 | 🔴 Hard | **7** |
 
 <!-- AUTO_STATS_END -->
@@ -37,15 +37,15 @@
 <!-- AUTO_PROGRESS_START -->
 ### 🟢 Easy
 
-████████████░░░░░░░░ 158/254
+████████████░░░░░░░░ 158/255
 
 ### 🟡 Medium
 
-███████░░░░░░░░░░░░░ 89/254
+███████░░░░░░░░░░░░░ 90/255
 
 ### 🔴 Hard
 
-█░░░░░░░░░░░░░░░░░░░ 7/254
+█░░░░░░░░░░░░░░░░░░░ 7/255
 
 <!-- AUTO_PROGRESS_END -->
 
@@ -100,7 +100,7 @@ Loading...
 | Language | Solutions |
 |---|---:|
 | C++ | 227 |
-| Unknown | 15 |
+| Unknown | 16 |
 | Java | 9 |
 | Postgresql | 2 |
 | Python | 1 |
@@ -111,7 +111,7 @@ Loading...
 # 📅 Last Updated
 
 <!-- AUTO_DATE_START -->
-21 October 2026 • 16:43
+22 October 2026 • 16:31
 <!-- AUTO_DATE_END -->
 
 ---
