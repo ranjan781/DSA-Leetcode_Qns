@@ -99,8 +99,8 @@ Loading...
 <!-- AUTO_LANG_START -->
 | Language | Solutions |
 |---|---:|
-| C++ | 227 |
-| Unknown | 16 |
+| C++ | 228 |
+| Unknown | 15 |
 | Java | 9 |
 | Postgresql | 2 |
 | Python | 1 |
