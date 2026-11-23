@@ -197,6 +197,7 @@ Every time I solve a new LeetCode problem:
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1331-rank-transform-of-an-array](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1331-rank-transform-of-an-array) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1352-product-of-the-last-k-numbers](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1352-product-of-the-last-k-numbers) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1406-stone-game-iii](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1406-stone-game-iii) |
 | [1470-shuffle-the-array](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1470-shuffle-the-array) |
@@ -494,6 +495,7 @@ Every time I solve a new LeetCode problem:
 | [0410-split-array-largest-sum](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0724-find-pivot-index) |
+| [1352-product-of-the-last-k-numbers](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1352-product-of-the-last-k-numbers) |
 | [1480-running-sum-of-1d-array](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1991-find-the-middle-index-in-array) |
@@ -536,6 +538,7 @@ Every time I solve a new LeetCode problem:
 | [1137-n-th-tribonacci-number](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1137-n-th-tribonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1352-product-of-the-last-k-numbers](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1352-product-of-the-last-k-numbers) |
 | [1360-number-of-days-between-two-dates](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1360-number-of-days-between-two-dates) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1406-stone-game-iii) |
@@ -631,6 +634,7 @@ Every time I solve a new LeetCode problem:
 | [0225-implement-stack-using-queues](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0232-implement-queue-using-stacks) |
 | [0706-design-hashmap](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0706-design-hashmap) |
+| [1352-product-of-the-last-k-numbers](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1352-product-of-the-last-k-numbers) |
 ## Queue
 |  |
 | ------- |
@@ -903,4 +907,8 @@ Every time I solve a new LeetCode problem:
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1051-height-checker) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
