@@ -275,6 +275,7 @@ Every time I solve a new LeetCode problem:
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2409-count-days-spent-together](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/2409-count-days-spent-together) |
 | [2418-sort-the-people](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/2418-sort-the-people) |
 | [2716-minimize-string-length](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/2716-minimize-string-length) |
