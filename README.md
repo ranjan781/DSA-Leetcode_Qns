@@ -233,6 +233,7 @@ Every time I solve a new LeetCode problem:
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/3683-earliest-time-to-finish-one-task) |
@@ -553,6 +554,7 @@ Every time I solve a new LeetCode problem:
 | [2652-sum-multiples](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/2652-sum-multiples) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3099-harshad-number](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/3099-harshad-number) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3536-maximum-product-of-two-digits](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -690,6 +692,7 @@ Every time I solve a new LeetCode problem:
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Interactive
 |  |
 | ------- |
@@ -712,6 +715,7 @@ Every time I solve a new LeetCode problem:
 | ------- |
 | [0258-add-digits](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Merge Sort
 |  |
 | ------- |
@@ -853,6 +857,7 @@ Every time I solve a new LeetCode problem:
 | ------- |
 | [2094-finding-3-digit-even-numbers](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/2094-finding-3-digit-even-numbers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/3483-unique-3-digit-even-numbers) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/ranjan781/DSA-Leetcode_Qns/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
